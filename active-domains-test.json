@@ -1,0 +1,46 @@
+{"ID":3920752,"Domain":"adnams.co.uk","Merchant":{"ID":6704,"Name":"Adnams","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":5515424,"Domain":"artoridesign.com","Merchant":{"ID":6711,"Name":"Artori Design","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5514994,"Domain":"cleanorigin.com","Merchant":{"ID":6726,"Name":"Clean Origin","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5848,"Domain":"eagleeyes.com","Merchant":{"ID":6731,"Name":"Eagle Eyes Optics","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5494,"Domain":"businessdirect.bt.com","Merchant":{"ID":6732,"Name":"BT Business Direct","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":5751,"Domain":"doctorinsole.com","Merchant":{"ID":6735,"Name":"DoctorInSole","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5752,"Domain":"helmboots.com","Merchant":{"ID":6736,"Name":"HELM Boots","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":5518245,"Domain":"verizonwireless.com","Merchant":{"ID":6738,"Name":"Verizon Wireless","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5834,"Domain":"verizon.com","Merchant":{"ID":6738,"Name":"Verizon Wireless","MaxRate":{"Kind":"FLAT","Amount":"150","Currency":"USD"}}}
+{"ID":5513127,"Domain":"philo.com","Merchant":{"ID":6739,"Name":"Philo","MaxRate":{"Kind":"FLAT","Amount":"5","Currency":"USD"}}}
+{"ID":5520655,"Domain":"budgetfamilybreaks.co.uk","Merchant":{"ID":6747,"Name":"Budget Family Breaks","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5502360,"Domain":"3000freegoodies.com","Merchant":{"ID":6755,"Name":"Free Newsletter of Goodies.","MaxRate":{"Kind":"FLAT","Amount":"0.225","Currency":"USD"}}}
+{"ID":5520575,"Domain":"lucadanni.com","Merchant":{"ID":6762,"Name":"Luca + Danni","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":5520720,"Domain":"ds18.com","Merchant":{"ID":6763,"Name":"DS18","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":5764,"Domain":"ravpower.com","Merchant":{"ID":6765,"Name":"RAVPower","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.5"}}}
+{"ID":5511194,"Domain":"enjoyflowers.com","Merchant":{"ID":6768,"Name":"Enjoy Flowers","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5767,"Domain":"80eighty.com","Merchant":{"ID":6771,"Name":"80eighty, llc","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":78108,"Domain":"maxvaping.com","Merchant":{"ID":6777,"Name":"Great Stuff 4 Me LLC","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5773,"Domain":"maxejuice.com","Merchant":{"ID":6777,"Name":"Great Stuff 4 Me LLC","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5775,"Domain":"aveotsd.com","Merchant":{"ID":6779,"Name":"Innovative Health Technologies","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":5520596,"Domain":"idratherbewithmydog.net","Merchant":{"ID":6781,"Name":"I'd Rather Be With My Dog","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":5520594,"Domain":"rothys.com","Merchant":{"ID":6782,"Name":"Rothy’s","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.4"}}}
+{"ID":3921719,"Domain":"izabel.com","Merchant":{"ID":6783,"Name":"Izabel London","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":5520501,"Domain":"zenmate.com","Merchant":{"ID":6785,"Name":"ZenMate VPN - INT","MaxRate":{"Kind":"PERCENTAGE","Amount":"50"}}}
+{"ID":5941,"Domain":"thehairstyler.com","Merchant":{"ID":6788,"Name":"TheHairStyler.com","MaxRate":{"Kind":"FLAT","Amount":"0.05","Currency":"USD"}}}
+{"ID":5942,"Domain":"showersplus.com","Merchant":{"ID":6789,"Name":"ShowersPlus.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5787,"Domain":"ilovedooney.com","Merchant":{"ID":6793,"Name":"ILoveDooney","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.6"}}}
+{"ID":5788,"Domain":"misook.com","Merchant":{"ID":6795,"Name":"Misook","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5789,"Domain":"naturalvitality.com","Merchant":{"ID":6796,"Name":"Natural Vitality","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5790,"Domain":"pureology.com","Merchant":{"ID":6798,"Name":"Pureology","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":105040,"Domain":"myqalo.com.au","Merchant":{"ID":6800,"Name":"QALO","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":5520357,"Domain":"capri-blue.com","Merchant":{"ID":6805,"Name":"Capri-Blue","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":5518353,"Domain":"1-800-4clocks.com","Merchant":{"ID":6812,"Name":"1-800-4CLOCKS","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.6"}}}
+{"ID":5520345,"Domain":"coltortiboutique.com","Merchant":{"ID":6814,"Name":"Coltorti Boutique","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5518388,"Domain":"thecpapshop.com","Merchant":{"ID":6817,"Name":"The CPAP Shop","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":6700,"Domain":"zutano.com","Merchant":{"ID":6818,"Name":"Zutano","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5517034,"Domain":"pikolinos.com","Merchant":{"ID":6820,"Name":"PIKOLINOS","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":5878,"Domain":"magicworld.co.uk","Merchant":{"ID":6822,"Name":"MagicWorld","MaxRate":{"Kind":"FLAT","Amount":"0.015","Currency":"USD"}}}
+{"ID":5801,"Domain":"kutfromthekloth.com","Merchant":{"ID":6823,"Name":"kut from the kloth","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5806,"Domain":"bulletproofzone.com","Merchant":{"ID":6829,"Name":"Bulletproof Zone","MaxRate":{"Kind":"FLAT","Amount":"0.005","Currency":"USD"}}}
+{"ID":61518,"Domain":"jennardorshoes.com","Merchant":{"ID":6831,"Name":"Jenn Ardor","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5807,"Domain":"jennardor.com","Merchant":{"ID":6831,"Name":"Jenn Ardor","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5811,"Domain":"thecryptomerchant.com","Merchant":{"ID":6836,"Name":"The Crypto Merchant","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5826,"Domain":"luxledlights.com","Merchant":{"ID":6846,"Name":"LUX LED Lighting","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":5520348,"Domain":"easeus.com","Merchant":{"ID":6850,"Name":"EaseUS Software","MaxRate":{"Kind":"PERCENTAGE","Amount":"12"}}}
+{"ID":103319,"Domain":"easeus-software.com","Merchant":{"ID":6850,"Name":"EaseUS Software","MaxRate":{"Kind":"PERCENTAGE","Amount":"30"}}}
