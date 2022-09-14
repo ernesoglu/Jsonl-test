@@ -44,3 +44,1443 @@
 {"ID":5826,"Domain":"luxledlights.com","Merchant":{"ID":6846,"Name":"LUX LED Lighting","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
 {"ID":5520348,"Domain":"easeus.com","Merchant":{"ID":6850,"Name":"EaseUS Software","MaxRate":{"Kind":"PERCENTAGE","Amount":"12"}}}
 {"ID":103319,"Domain":"easeus-software.com","Merchant":{"ID":6850,"Name":"EaseUS Software","MaxRate":{"Kind":"PERCENTAGE","Amount":"30"}}}
+{"ID":5520471,"Domain":"amandalindroth.com","Merchant":{"ID":6851,"Name":"Amanda Lindroth","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5853,"Domain":"canterberrygifts.com","Merchant":{"ID":6852,"Name":"Canterberry Gifts","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5854,"Domain":"zerobreeze.com","Merchant":{"ID":6853,"Name":"Zero Breeze","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5863,"Domain":"diyanu.com","Merchant":{"ID":6858,"Name":"D'iyanu","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5520349,"Domain":"ensorings.com","Merchant":{"ID":6862,"Name":"Enso Rings","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5520419,"Domain":"vessifootwear.com","Merchant":{"ID":6863,"Name":"Vessi Footwear","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.4"}}}
+{"ID":95346,"Domain":"vessi.com","Merchant":{"ID":6863,"Name":"Vessi Footwear","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.4"}}}
+{"ID":5504852,"Domain":"ejuice.deals","Merchant":{"ID":6864,"Name":"EJuice Deals","MaxRate":{"Kind":"PERCENTAGE","Amount":"8"}}}
+{"ID":5520429,"Domain":"wanderbeauty.com","Merchant":{"ID":6866,"Name":"Wander Beauty","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":3919194,"Domain":"anypromo.com","Merchant":{"ID":6867,"Name":"AnyPromo","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":5945,"Domain":"shoppingbookmarks.com","Merchant":{"ID":6868,"Name":"ShoppingBookmarks.com","MaxRate":{"Kind":"FLAT","Amount":"0.05","Currency":"USD"}}}
+{"ID":5951,"Domain":"vacuum-sealer-bags.com","Merchant":{"ID":6875,"Name":"LD Marketing, LLC","MaxRate":{"Kind":"FLAT","Amount":"0.05","Currency":"USD"}}}
+{"ID":5520342,"Domain":"sharkclean.com","Merchant":{"ID":6881,"Name":"Shark Clean","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":107154,"Domain":"sharkclean.fr","Merchant":{"ID":6881,"Name":"Shark Clean","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5520199,"Domain":"arcbazar.com","Merchant":{"ID":6882,"Name":"Arcbazar","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5520343,"Domain":"framedart.com","Merchant":{"ID":6892,"Name":"Framed Art","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5520428,"Domain":"fusereel.com","Merchant":{"ID":6898,"Name":"Fuse Reel","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5896,"Domain":"levelsleep.com","Merchant":{"ID":6905,"Name":"Level Sleep","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":5520602,"Domain":"shop.bt.com","Merchant":{"ID":6908,"Name":"BT Shop","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5520598,"Domain":"bitebeauty.com","Merchant":{"ID":6910,"Name":"BITE Beauty","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":103867,"Domain":"built.com","Merchant":{"ID":6911,"Name":"Built Bar","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":5914,"Domain":"builtbar.com","Merchant":{"ID":6911,"Name":"Built Bar","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":5915,"Domain":"seatsforeveryone.com","Merchant":{"ID":6913,"Name":"SeatsForEveryone.com","MaxRate":{"Kind":"FLAT","Amount":"3","Currency":"USD"}}}
+{"ID":5955,"Domain":"jrroses.com","Merchant":{"ID":6919,"Name":"Jrroses.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5957,"Domain":"magicworldonline.com","Merchant":{"ID":6922,"Name":"MagicWorldOnline","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5502943,"Domain":"hyperwear.com","Merchant":{"ID":6932,"Name":"Hyperwear","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":5520355,"Domain":"jrenee.com","Merchant":{"ID":6936,"Name":"J Renee","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":5518308,"Domain":"ingridandisabel.com","Merchant":{"ID":6938,"Name":"Ingrid & Isabel","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":106606,"Domain":"lululemon.fr","Merchant":{"ID":6963,"Name":"Lululemon","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":106607,"Domain":"lululemon.de","Merchant":{"ID":6963,"Name":"Lululemon","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":6942,"Domain":"wetnwildbeauty.com","Merchant":{"ID":6966,"Name":"Wet n Wild","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":6944,"Domain":"teamzealios.com","Merchant":{"ID":6967,"Name":"Zealios","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":120839,"Domain":"me.agentprovocateur.com","Merchant":{"ID":6977,"Name":"Agent Provocateur","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.075"}}}
+{"ID":3974473,"Domain":"agentprovocateur.com","Merchant":{"ID":6977,"Name":"Agent Provocateur","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5969,"Domain":"starcdrom.com","Merchant":{"ID":6978,"Name":"Star Interactive","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":5974,"Domain":"listatrailer.com","Merchant":{"ID":6983,"Name":"ListATrailer.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5978,"Domain":"darkfigures.com","Merchant":{"ID":6987,"Name":"DarkFigures","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":79270,"Domain":"c4energy.com","Merchant":{"ID":6998,"Name":"Nutrabolt","MaxRate":{"Kind":"PERCENTAGE","Amount":"9"}}}
+{"ID":5898,"Domain":"lightbulbs-direct.com","Merchant":{"ID":6999,"Name":"Lightbulbs Direct","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5867,"Domain":"sferra.com","Merchant":{"ID":7004,"Name":"SFERRA Fine Linens","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5835,"Domain":"joyoshare.com","Merchant":{"ID":7005,"Name":"Joyoshare - joyoshare","MaxRate":{"Kind":"PERCENTAGE","Amount":"30"}}}
+{"ID":5929,"Domain":"us.zadig-et-voltaire.com","Merchant":{"ID":7007,"Name":"Zadig & Voltaire","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":3925277,"Domain":"zadig-et-voltaire.com","Merchant":{"ID":7007,"Name":"Zadig & Voltaire","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5882,"Domain":"uplandoptics.com","Merchant":{"ID":7016,"Name":"Upland Optics","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":5893,"Domain":"trestique.com","Merchant":{"ID":7017,"Name":"Trestique","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":5891,"Domain":"xpandlaces.com","Merchant":{"ID":7021,"Name":"Xpand Inc.","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":3924788,"Domain":"trocafone.com","Merchant":{"ID":7023,"Name":"Trocafone","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":5520224,"Domain":"wattsbeautyusa.com","Merchant":{"ID":7024,"Name":"Watts Beauty USA","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":5503052,"Domain":"losethebackpain.com","Merchant":{"ID":7029,"Name":"Healthy Back Institute","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":5900,"Domain":"rebel.com","Merchant":{"ID":7030,"Name":"Rebel","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":5869,"Domain":"hipstiks.com","Merchant":{"ID":7031,"Name":"Hipstik® Legwear","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":3997646,"Domain":"maddafella.com","Merchant":{"ID":7035,"Name":"Madda Fella","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5871,"Domain":"arhaus.com","Merchant":{"ID":7036,"Name":"Arhaus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":5520361,"Domain":"americanblinds.com","Merchant":{"ID":7043,"Name":"American Blinds","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":6943,"Domain":"genietraveler.com","Merchant":{"ID":7052,"Name":"Genie Traveler","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":5987,"Domain":"theapprenticedoctor.com","Merchant":{"ID":7054,"Name":"The Apprentice Corporation","MaxRate":{"Kind":"FLAT","Amount":"3.75","Currency":"USD"}}}
+{"ID":5991,"Domain":"english4today.com","Merchant":{"ID":7059,"Name":"English4Today","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":5518270,"Domain":"ellaparadis.com","Merchant":{"ID":7065,"Name":"Ella Paradis","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":5998,"Domain":"alwayswebhosting.com","Merchant":{"ID":7067,"Name":"AlwaysWebHosting.com","MaxRate":{"Kind":"FLAT","Amount":"12.5","Currency":"USD"}}}
+{"ID":6003,"Domain":"iloveantix.com","Merchant":{"ID":7072,"Name":"Antix Clothing","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":6005,"Domain":"perpetualkid.com","Merchant":{"ID":7074,"Name":"Perpetual Kid","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5520364,"Domain":"beekshop.com","Merchant":{"ID":7077,"Name":"beek","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":5520368,"Domain":"nakedwines.com","Merchant":{"ID":7082,"Name":"NakedWines.com","MaxRate":{"Kind":"FLAT","Amount":"10","Currency":"USD"}}}
+{"ID":94994,"Domain":"us.nakedwines.com","Merchant":{"ID":7082,"Name":"NakedWines.com","MaxRate":{"Kind":"FLAT","Amount":"12.5","Currency":"USD"}}}
+{"ID":5517357,"Domain":"campusprotein.com","Merchant":{"ID":7084,"Name":"Campus Protein","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":6007,"Domain":"reallycolor.com","Merchant":{"ID":7085,"Name":"ReallyColor, LLC","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":6009,"Domain":"threeavocados.org","Merchant":{"ID":7087,"Name":"Three Avocados, Inc","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":6013,"Domain":"healthcabin.net","Merchant":{"ID":7091,"Name":"HandsGroups","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5520604,"Domain":"ohmconnect.com","Merchant":{"ID":7095,"Name":"OhmConnect","MaxRate":{"Kind":"FLAT","Amount":"2.5","Currency":"USD"}}}
+{"ID":5520648,"Domain":"edmunds.com","Merchant":{"ID":7099,"Name":"Edmunds","MaxRate":{"Kind":"FLAT","Amount":"2.5","Currency":"USD"}}}
+{"ID":5520699,"Domain":"mrmisocki.com","Merchant":{"ID":7102,"Name":"MrMiSocki","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7111,"Domain":"jomashop.com","Merchant":{"ID":7140,"Name":"Jomashop.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":5520433,"Domain":"foxers.com","Merchant":{"ID":7141,"Name":"FOXERS","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7115,"Domain":"herbivorebotanicals.com","Merchant":{"ID":7142,"Name":"Herbivore Botanicals","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":7129,"Domain":"physiciansformula.com","Merchant":{"ID":7145,"Name":"Physicians Formula","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":6015,"Domain":"eccobella.com","Merchant":{"ID":7146,"Name":"Ecco Bella","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":7131,"Domain":"partypieces.co.uk","Merchant":{"ID":7148,"Name":"Party Pieces","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.4"}}}
+{"ID":5520370,"Domain":"paddywax.com","Merchant":{"ID":7156,"Name":"Paddywax","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5520371,"Domain":"pairofthieves.com","Merchant":{"ID":7157,"Name":"Pair of Thieves","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":5520464,"Domain":"lifelock.com","Merchant":{"ID":7159,"Name":"LifeLock Identity Theft Services","MaxRate":{"Kind":"FLAT","Amount":"55","Currency":"USD"}}}
+{"ID":5837,"Domain":"projecticodis.com","Merchant":{"ID":7161,"Name":"Hong Kong Codis Electronic Co.ltd","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5843,"Domain":"refausa.com","Merchant":{"ID":7164,"Name":"ReFa USA","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":92175,"Domain":"hughandgrace.com","Merchant":{"ID":7166,"Name":"Hugh & Crye","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5931,"Domain":"kids-revealbookbox.com","Merchant":{"ID":7167,"Name":"Kids Reveal Book Box","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5839,"Domain":"kimerakoffee.com","Merchant":{"ID":7168,"Name":"KIMERA KOFFEE, LLC","MaxRate":{"Kind":"PERCENTAGE","Amount":"9"}}}
+{"ID":5935,"Domain":"tubbytodd.com","Merchant":{"ID":7170,"Name":"Tubby Todd Bath Co","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":5936,"Domain":"appointy.com","Merchant":{"ID":7171,"Name":"Appointy","MaxRate":{"Kind":"FLAT","Amount":"0.005","Currency":"USD"}}}
+{"ID":5520550,"Domain":"cprtestcenter.com","Merchant":{"ID":7174,"Name":"CPR Test Center","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":5520551,"Domain":"promixnutrition.com","Merchant":{"ID":7175,"Name":"Promix Nutrition","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5520564,"Domain":"brazilianskin.com","Merchant":{"ID":7184,"Name":"BRZLNSKIN LLC","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":8072,"Domain":"getfloaty.com","Merchant":{"ID":7185,"Name":"GetFloaty","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5520565,"Domain":"kololo.co","Merchant":{"ID":7185,"Name":"GetFloaty","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5520571,"Domain":"kbeads.com","Merchant":{"ID":7189,"Name":"Kbeads","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5520573,"Domain":"empressmimilingerie.com","Merchant":{"ID":7191,"Name":"Empress Mimi Lingerie","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":33727,"Domain":"empressmimi.com","Merchant":{"ID":7191,"Name":"Empress Mimi Lingerie","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":5520559,"Domain":"gearinfusion.com","Merchant":{"ID":7194,"Name":"Gear Infusion","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5520577,"Domain":"hoteltravelclub.com","Merchant":{"ID":7196,"Name":"HoteTravelClub.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":5520599,"Domain":"mingwangknits.com","Merchant":{"ID":7199,"Name":"Ming Wang Knits","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5520553,"Domain":"beebeecraft.com","Merchant":{"ID":7201,"Name":"Beebeecraft","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":6018,"Domain":"couponsurfer.com","Merchant":{"ID":7210,"Name":"CouponSurfer.com","MaxRate":{"Kind":"FLAT","Amount":"0.1","Currency":"USD"}}}
+{"ID":5502446,"Domain":"2000freebies.com","Merchant":{"ID":7211,"Name":"2000Freebies","MaxRate":{"Kind":"FLAT","Amount":"0.325","Currency":"USD"}}}
+{"ID":6020,"Domain":"hostned.com","Merchant":{"ID":7213,"Name":"HostNed Web Hosting","MaxRate":{"Kind":"FLAT","Amount":"10","Currency":"USD"}}}
+{"ID":6021,"Domain":"instantmusicnow.com","Merchant":{"ID":7214,"Name":"QCCS Productions Inc.","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":6025,"Domain":"humoroust-shirts.com","Merchant":{"ID":7219,"Name":"Digital Enterprises","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":5520713,"Domain":"footcardigan.com","Merchant":{"ID":7221,"Name":"Foot Cardigan","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":107517,"Domain":"thegoodgracious.com","Merchant":{"ID":7222,"Name":"E2E.INC","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":130777,"Domain":"goodgraciousliving.com","Merchant":{"ID":7222,"Name":"E2E.INC","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":3920645,"Domain":"blackswallow.com.au","Merchant":{"ID":7225,"Name":"BLACK SWALLOW","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":5520707,"Domain":"nyvapeshop.com","Merchant":{"ID":7227,"Name":"NY Vape Shop","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":89877,"Domain":"info.portableoxygendepot.com","Merchant":{"ID":7228,"Name":"1st Class Medical Inc","MaxRate":{"Kind":"FLAT","Amount":"10","Currency":"USD"}}}
+{"ID":5520715,"Domain":"1stclassmed.com","Merchant":{"ID":7228,"Name":"1st Class Medical Inc","MaxRate":{"Kind":"FLAT","Amount":"10","Currency":"USD"}}}
+{"ID":5520708,"Domain":"easysmx.com","Merchant":{"ID":7229,"Name":"EasySMX Co., Ltd","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":5520727,"Domain":"customvinyldecor.com","Merchant":{"ID":7230,"Name":"CustomVinylDecor.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5845,"Domain":"fidelity.co.uk","Merchant":{"ID":7232,"Name":"Fidelity ISA","MaxRate":{"Kind":"FLAT","Amount":"75","Currency":"GBP"}}}
+{"ID":6027,"Domain":"knowledgeboxcentral.com","Merchant":{"ID":7239,"Name":"Knowledge Box Central","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":6028,"Domain":"stickershoppe.com","Merchant":{"ID":7240,"Name":"StickerShoppe.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":6032,"Domain":"magazinebargains.com","Merchant":{"ID":7244,"Name":"MagazineBargains.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":6034,"Domain":"bodybody.com","Merchant":{"ID":7246,"Name":"Ranowear","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7253,"Domain":"mukhayoga.com","Merchant":{"ID":7276,"Name":"Mukha Yoga","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":7250,"Domain":"gobiheat.com","Merchant":{"ID":7277,"Name":"Gobi Heat","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":3924302,"Domain":"swansonvitamins.com","Merchant":{"ID":7282,"Name":"Swanson Health","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":7257,"Domain":"sullenclothing.com","Merchant":{"ID":7283,"Name":"Sullen Clothing","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":7260,"Domain":"farmfoodsmarket.com","Merchant":{"ID":7287,"Name":"FarmFoods","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":7269,"Domain":"1stopflorists.com","Merchant":{"ID":7289,"Name":"1stopflorists","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7270,"Domain":"blueridgechair.com","Merchant":{"ID":7290,"Name":"Blue Ridge Chair Works","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7272,"Domain":"gogeardirect.com","Merchant":{"ID":7294,"Name":"Go Gear Direct","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":6043,"Domain":"electroflip.com","Merchant":{"ID":7305,"Name":"ElectroFlip LLC","MaxRate":{"Kind":"FLAT","Amount":"0.005","Currency":"USD"}}}
+{"ID":6045,"Domain":"modandsoul.com","Merchant":{"ID":7307,"Name":"Mod&Soul","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":6056,"Domain":"storemoreguns.com","Merchant":{"ID":7317,"Name":"Gun Storage Solutions","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":6058,"Domain":"mydreamlines.com","Merchant":{"ID":7320,"Name":"Dreamlines","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":6068,"Domain":"diabetesstore.com","Merchant":{"ID":7330,"Name":"Alldiabetic, LLC","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":6953,"Domain":"konhill.com","Merchant":{"ID":7346,"Name":"Konhill shoes","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":51182,"Domain":"tiosebon.com","Merchant":{"ID":7346,"Name":"Konhill shoes","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":6949,"Domain":"jetfuelmeals.com","Merchant":{"ID":7348,"Name":"Jet Fuel Meals","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":3924225,"Domain":"en.stylenanda.com","Merchant":{"ID":7350,"Name":"Stylenanda","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":122660,"Domain":"stylenandaen.com","Merchant":{"ID":7350,"Name":"Stylenanda","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7112,"Domain":"nganic.com","Merchant":{"ID":7353,"Name":"Nganic","MaxRate":{"Kind":"PERCENTAGE","Amount":"8"}}}
+{"ID":7120,"Domain":"sip.us","Merchant":{"ID":7355,"Name":"SIP.US","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7628,"Domain":"mpowerd.com","Merchant":{"ID":7673,"Name":"MPOWERD","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":7601,"Domain":"warriorstacklesupply.com","Merchant":{"ID":7675,"Name":"Warriors Tackle Supply","MaxRate":{"Kind":"FLAT","Amount":"0.75","Currency":"USD"}}}
+{"ID":7639,"Domain":"ghostvapes.com","Merchant":{"ID":7683,"Name":"Ghost Vapes","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":7642,"Domain":"golfavenue.com","Merchant":{"ID":7688,"Name":"Golf Avenue","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":7650,"Domain":"kindsnacks.com","Merchant":{"ID":7693,"Name":"KIND Snacks","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":6268,"Domain":"pickyourplum.com","Merchant":{"ID":7694,"Name":"Pick Your Plum","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":104970,"Domain":"nextmar.com","Merchant":{"ID":7696,"Name":"Zeelool","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":5506223,"Domain":"zeelool.com","Merchant":{"ID":7696,"Name":"Zeelool","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":7654,"Domain":"getaway.house","Merchant":{"ID":7699,"Name":"Getaway","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":7655,"Domain":"beachsissi.com","Merchant":{"ID":7700,"Name":"www.beachsissi.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":7656,"Domain":"yesglasses.com","Merchant":{"ID":7701,"Name":"Yesglasses International Inc.","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":7663,"Domain":"powertac.com","Merchant":{"ID":7704,"Name":"PowerTac","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7666,"Domain":"mediflow.com","Merchant":{"ID":7706,"Name":"Mediflow","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.8"}}}
+{"ID":7365,"Domain":"kentfaith.com","Merchant":{"ID":7710,"Name":"K&F Concept","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":7370,"Domain":"roddandgunn.com","Merchant":{"ID":7711,"Name":"Rodd & Gunn","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7372,"Domain":"uncannybrands.com","Merchant":{"ID":7714,"Name":"Uncanny Brands","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7373,"Domain":"boundarysupply.com","Merchant":{"ID":7715,"Name":"Boundary Supply","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":3923349,"Domain":"popinabox.co.uk","Merchant":{"ID":7716,"Name":"Pop In a Box","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":45864,"Domain":"popinabox.it","Merchant":{"ID":7716,"Name":"Pop In a Box","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":70235,"Domain":"popinabox.de","Merchant":{"ID":7716,"Name":"Pop In a Box","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":59181,"Domain":"popinabox.fr","Merchant":{"ID":7716,"Name":"Pop In a Box","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":70236,"Domain":"popinabox.es","Merchant":{"ID":7716,"Name":"Pop In a Box","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":3923348,"Domain":"popinabox.us","Merchant":{"ID":7716,"Name":"Pop In a Box","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":70237,"Domain":"popinabox.ca","Merchant":{"ID":7716,"Name":"Pop In a Box","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7668,"Domain":"onecondoms.com","Merchant":{"ID":7718,"Name":"ONE Condoms","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":7543,"Domain":"proenzaschouler.com","Merchant":{"ID":7721,"Name":"Proenza Schouler LLC","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.4"}}}
+{"ID":7364,"Domain":"creditfixguy.com","Merchant":{"ID":7735,"Name":"BBD Unlimited","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":5518348,"Domain":"elietahari.com","Merchant":{"ID":7736,"Name":"Elie Tahari","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":7722,"Domain":"lifelinescreening.com","Merchant":{"ID":7738,"Name":"Life Line Screening","MaxRate":{"Kind":"FLAT","Amount":"30","Currency":"USD"}}}
+{"ID":7723,"Domain":"beautynetkorea.com","Merchant":{"ID":7740,"Name":"Beautynet Korea","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":7724,"Domain":"maison-de-mode.com","Merchant":{"ID":7741,"Name":"MAISON-DE-MODE.COM","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":7725,"Domain":"lasfit.com","Merchant":{"ID":7742,"Name":"5DLIGHT","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":7728,"Domain":"dailygreatness.co","Merchant":{"ID":7745,"Name":"Daily Greatness","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7544,"Domain":"servicetitan.com","Merchant":{"ID":7746,"Name":"ServiceTitan","MaxRate":{"Kind":"FLAT","Amount":"40","Currency":"USD"}}}
+{"ID":61195,"Domain":"smithhonig.com","Merchant":{"ID":7750,"Name":"Boho Luxe Home","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":7548,"Domain":"boholuxehome.com","Merchant":{"ID":7750,"Name":"Boho Luxe Home","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":7551,"Domain":"thehalloweenspot.com","Merchant":{"ID":7753,"Name":"The Halloween spot","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":7558,"Domain":"clarksbotanicals.com","Merchant":{"ID":7757,"Name":"Clarks Botanicals","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":69962,"Domain":"lastminute.de","Merchant":{"ID":7758,"Name":"LastMinute","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":70875,"Domain":"it.lastminute.com","Merchant":{"ID":7758,"Name":"LastMinute","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":74657,"Domain":"lastminute.ie","Merchant":{"ID":7758,"Name":"LastMinute","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7731,"Domain":"lastminute.com","Merchant":{"ID":7758,"Name":"LastMinute","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":73867,"Domain":"es.lastminute.com","Merchant":{"ID":7758,"Name":"LastMinute","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.25"}}}
+{"ID":7563,"Domain":"oscarrossa.com","Merchant":{"ID":7761,"Name":"Oscar Rossa International Inc","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7565,"Domain":"topsecretfibers.com","Merchant":{"ID":7763,"Name":"Top Secret Fibers","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":5504941,"Domain":"sideshowtoy.com","Merchant":{"ID":7765,"Name":"Sideshow","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7569,"Domain":"sideshow.com","Merchant":{"ID":7765,"Name":"Sideshow","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":7570,"Domain":"evanevanstours.com","Merchant":{"ID":7766,"Name":"Evan Evans Tours","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":7573,"Domain":"1password.com","Merchant":{"ID":7767,"Name":"1Password","MaxRate":{"Kind":"PERCENTAGE","Amount":"15"}}}
+{"ID":7574,"Domain":"undone.com","Merchant":{"ID":7768,"Name":"UNDONE Watches","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7576,"Domain":"wherelight.com","Merchant":{"ID":7771,"Name":"Wherelight","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":7581,"Domain":"dansko.com","Merchant":{"ID":7772,"Name":"Dansko","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":7580,"Domain":"stellamccartney.com","Merchant":{"ID":7775,"Name":"Stella McCartney US","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":5919,"Domain":"7shifts.com","Merchant":{"ID":7778,"Name":"7shifts","MaxRate":{"Kind":"FLAT","Amount":"25","Currency":"USD"}}}
+{"ID":5520352,"Domain":"grove.co","Merchant":{"ID":7779,"Name":"Grove Collaborative","MaxRate":{"Kind":"FLAT","Amount":"4.8","Currency":"USD"}}}
+{"ID":61105,"Domain":"niccolohotels.com","Merchant":{"ID":7782,"Name":"Niccolo Hotels","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":5510763,"Domain":"oneplus.com","Merchant":{"ID":7784,"Name":"OnePlus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":97520,"Domain":"oneplus.in","Merchant":{"ID":7784,"Name":"OnePlus","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.475"}}}
+{"ID":101225,"Domain":"us.playfulpromises.com","Merchant":{"ID":7785,"Name":"Playful Promises","MaxRate":{"Kind":"PERCENTAGE","Amount":"5.5"}}}
+{"ID":5518914,"Domain":"playfulpromises.com","Merchant":{"ID":7785,"Name":"Playful Promises","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7589,"Domain":"simpletire.com","Merchant":{"ID":7786,"Name":"SimpleTire","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7590,"Domain":"flattummyco.com","Merchant":{"ID":7787,"Name":"Flat Tummy Co","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7591,"Domain":"sneakyvaunt.com","Merchant":{"ID":7788,"Name":"Sneaky Vaunt","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":6404,"Domain":"thimblepress.com","Merchant":{"ID":7789,"Name":"Thimblepress","MaxRate":{"Kind":"FLAT","Amount":"0.5","Currency":"USD"}}}
+{"ID":7593,"Domain":"handmd.com","Merchant":{"ID":7791,"Name":"Hand MD","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":3918979,"Domain":"aardvarkcompare.com","Merchant":{"ID":7793,"Name":"AardvarkInsure.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":118590,"Domain":"aardy.com","Merchant":{"ID":7793,"Name":"AardvarkInsure.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":7596,"Domain":"tesvor.com","Merchant":{"ID":7796,"Name":"TESVOR","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5850,"Domain":"compex.com","Merchant":{"ID":7801,"Name":"Compex","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":7606,"Domain":"theory.com","Merchant":{"ID":7803,"Name":"Theory Apparel","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.8"}}}
+{"ID":7620,"Domain":"hotdiamonds.co.uk","Merchant":{"ID":7815,"Name":"Hot Diamonds","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":7623,"Domain":"focusfactor.com","Merchant":{"ID":7818,"Name":"Focus Factor","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":61108,"Domain":"delphinusworld.com","Merchant":{"ID":7819,"Name":"Delphinus","MaxRate":{"Kind":"FLAT","Amount":"0.005","Currency":"USD"}}}
+{"ID":7820,"Domain":"crossbreedholsters.com","Merchant":{"ID":7859,"Name":"CrossBreed Holsters","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":5518272,"Domain":"aquatalia.com","Merchant":{"ID":7860,"Name":"Aquatalia","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5514392,"Domain":"vince.com","Merchant":{"ID":7861,"Name":"Vince","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":7821,"Domain":"culturekings.com.au","Merchant":{"ID":7862,"Name":"Culture Kings","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":100868,"Domain":"culturekings.com","Merchant":{"ID":7862,"Name":"Culture Kings","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":7827,"Domain":"craftcompany.co.uk","Merchant":{"ID":7866,"Name":"Craft Company","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":7832,"Domain":"functionofbeauty.com","Merchant":{"ID":7871,"Name":"Function of Beauty","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7835,"Domain":"natracure.com","Merchant":{"ID":7874,"Name":"NatraCure","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7838,"Domain":"fifthroom.com","Merchant":{"ID":7877,"Name":"Fifthroom.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":95251,"Domain":"dometic.com","Merchant":{"ID":7880,"Name":"Dometic","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7842,"Domain":"shop.dometic.com","Merchant":{"ID":7880,"Name":"Dometic","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7843,"Domain":"meshki.com.au","Merchant":{"ID":7881,"Name":"MESHKI US","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.75"}}}
+{"ID":85213,"Domain":"meshki.us","Merchant":{"ID":7881,"Name":"MESHKI US","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.75"}}}
+{"ID":7844,"Domain":"ashampoo.com","Merchant":{"ID":7882,"Name":"Ashampoo","MaxRate":{"Kind":"PERCENTAGE","Amount":"16.5"}}}
+{"ID":7846,"Domain":"atpscience.com","Merchant":{"ID":7883,"Name":"ATP Science","MaxRate":{"Kind":"PERCENTAGE","Amount":"8"}}}
+{"ID":7847,"Domain":"feetures.com","Merchant":{"ID":7884,"Name":"Feetures","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7849,"Domain":"gravitycoalition.com","Merchant":{"ID":7886,"Name":"Gravity Coalition","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":7851,"Domain":"trekbikes.com","Merchant":{"ID":7888,"Name":"Trek Bicycle","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":7853,"Domain":"logitechg.com","Merchant":{"ID":7890,"Name":"Logitech G","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7854,"Domain":"matadorup.com","Merchant":{"ID":7891,"Name":"Matador","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7856,"Domain":"secureitgunstorage.com","Merchant":{"ID":7893,"Name":"SecureIt Gun Storage","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7857,"Domain":"bandolierstyle.com","Merchant":{"ID":7898,"Name":"Bandolier","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7825,"Domain":"scalahosting.com","Merchant":{"ID":7927,"Name":"Scala Hosting","MaxRate":{"Kind":"FLAT","Amount":"75","Currency":"USD"}}}
+{"ID":7900,"Domain":"esskateboarding.com","Merchant":{"ID":7930,"Name":"eS Skateboarding","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":7901,"Domain":"etnies.com","Merchant":{"ID":7931,"Name":"Etnies","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":7902,"Domain":"thirtytwo.com","Merchant":{"ID":7932,"Name":"ThirtyTwo","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":7546,"Domain":"wtennis.com.br","Merchant":{"ID":7947,"Name":"World Tennis","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":7945,"Domain":"sestini.com.br","Merchant":{"ID":7951,"Name":"Sestini","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":3974505,"Domain":"cottonon.com","Merchant":{"ID":8005,"Name":"Cotton On","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7953,"Domain":"mysleep8.com","Merchant":{"ID":8007,"Name":"Sleep8 inc.","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":7960,"Domain":"eimmie.com","Merchant":{"ID":8009,"Name":"Playtime by Eimmie","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":7955,"Domain":"theshavingco.us","Merchant":{"ID":8010,"Name":"VGM Enterprises Inc","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":78103,"Domain":"buybarber.com","Merchant":{"ID":8010,"Name":"VGM Enterprises Inc","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":7944,"Domain":"holygrailsteak.com","Merchant":{"ID":8014,"Name":"HolyGrailSteak.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":7973,"Domain":"promos.cylance.com","Merchant":{"ID":8019,"Name":"Cylance Consumer Shop","MaxRate":{"Kind":"PERCENTAGE","Amount":"15"}}}
+{"ID":122636,"Domain":"blackberry.com","Merchant":{"ID":8019,"Name":"Cylance Consumer Shop","MaxRate":{"Kind":"PERCENTAGE","Amount":"15"}}}
+{"ID":96520,"Domain":"underarmour.ie","Merchant":{"ID":8020,"Name":"Under Armour","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":69825,"Domain":"underarmour.eu","Merchant":{"ID":8020,"Name":"Under Armour","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":69829,"Domain":"underarmour.it","Merchant":{"ID":8020,"Name":"Under Armour","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":116334,"Domain":"underarmour.ca","Merchant":{"ID":8020,"Name":"Under Armour","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":69824,"Domain":"underarmour.nl","Merchant":{"ID":8020,"Name":"Under Armour","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":3924874,"Domain":"underarmour.fr","Merchant":{"ID":8020,"Name":"Under Armour","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":7974,"Domain":"underarmour.com","Merchant":{"ID":8020,"Name":"Under Armour","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5498133,"Domain":"underarmour.com.au","Merchant":{"ID":8020,"Name":"Under Armour","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":69834,"Domain":"underarmour.de","Merchant":{"ID":8020,"Name":"Under Armour","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":7980,"Domain":"kissmyketo.com","Merchant":{"ID":8022,"Name":"Kiss My Keto","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":113152,"Domain":"heatholders.co.uk","Merchant":{"ID":8029,"Name":"Heat Holders","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7981,"Domain":"heatholders.com","Merchant":{"ID":8029,"Name":"Heat Holders","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.2"}}}
+{"ID":7983,"Domain":"smitheyironware.com","Merchant":{"ID":8031,"Name":"Smithey Ironware Company","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.2"}}}
+{"ID":65938,"Domain":"smithey.com","Merchant":{"ID":8031,"Name":"Smithey Ironware Company","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":75769,"Domain":"totes.co.uk","Merchant":{"ID":8034,"Name":"Totes","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":7990,"Domain":"totes.com","Merchant":{"ID":8034,"Name":"Totes","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7988,"Domain":"moxdirect.com","Merchant":{"ID":8038,"Name":"MOXXOR, LLC","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7996,"Domain":"taylorstitch.com","Merchant":{"ID":8042,"Name":"Taylor Stitch","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":8001,"Domain":"coffeeblenders.com","Merchant":{"ID":8046,"Name":"Coffee Blenders","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":8002,"Domain":"maps.com","Merchant":{"ID":8047,"Name":"MAPS.com Shop","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8059,"Domain":"airvapeusa.com","Merchant":{"ID":8094,"Name":"AirVape","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":8061,"Domain":"headsweats.com","Merchant":{"ID":8097,"Name":"Headsweats","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":8068,"Domain":"wineonsale.com","Merchant":{"ID":8102,"Name":"Wine On Sale","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":8069,"Domain":"ecotric.com","Merchant":{"ID":8103,"Name":"E-go Bike llc","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":8076,"Domain":"jambu.com","Merchant":{"ID":8106,"Name":"Jambu","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":8082,"Domain":"us.fatface.com","Merchant":{"ID":8112,"Name":"FatFace","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":68658,"Domain":"edreams.it","Merchant":{"ID":8114,"Name":"eDreams","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":110448,"Domain":"edreams.com.au","Merchant":{"ID":8114,"Name":"eDreams","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.75"}}}
+{"ID":5497654,"Domain":"edreams.net","Merchant":{"ID":8114,"Name":"eDreams","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":69849,"Domain":"edreams.es","Merchant":{"ID":8114,"Name":"eDreams","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":95191,"Domain":"edreams.com","Merchant":{"ID":8114,"Name":"eDreams","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":8083,"Domain":"edreams.co.uk","Merchant":{"ID":8114,"Name":"eDreams","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.75"}}}
+{"ID":3920445,"Domain":"au.edreams.com","Merchant":{"ID":8114,"Name":"eDreams","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":69966,"Domain":"edreams.de","Merchant":{"ID":8114,"Name":"eDreams","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":5497653,"Domain":"ca.edreams.com","Merchant":{"ID":8114,"Name":"eDreams","MaxRate":{"Kind":"FLAT","Amount":"4","Currency":"CAD"}}}
+{"ID":5497655,"Domain":"nl.edreams.com","Merchant":{"ID":8114,"Name":"eDreams","MaxRate":{"Kind":"FLAT","Amount":"7.5","Currency":"EUR"}}}
+{"ID":45542,"Domain":"edreams.pt","Merchant":{"ID":8114,"Name":"eDreams","MaxRate":{"Kind":"FLAT","Amount":"12.5","Currency":"EUR"}}}
+{"ID":9493,"Domain":"bboutique.co","Merchant":{"ID":8161,"Name":"Bellesa","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8128,"Domain":"bellesa.co","Merchant":{"ID":8161,"Name":"Bellesa","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8134,"Domain":"johnrobshaw.com","Merchant":{"ID":8163,"Name":"John Robshaw","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":8130,"Domain":"tink.us","Merchant":{"ID":8164,"Name":"tink","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":69331,"Domain":"tink.de","Merchant":{"ID":8164,"Name":"tink","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":82944,"Domain":"tink.at","Merchant":{"ID":8164,"Name":"tink","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":8131,"Domain":"fastestvpn.com","Merchant":{"ID":8165,"Name":"Fast Technology Limited","MaxRate":{"Kind":"PERCENTAGE","Amount":"30"}}}
+{"ID":5512022,"Domain":"brainsensei.com","Merchant":{"ID":8167,"Name":"Brain Sensei Inc.","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":8135,"Domain":"hamiltonbeach.com","Merchant":{"ID":8168,"Name":"Hamilton Beach","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":8144,"Domain":"nobis.com","Merchant":{"ID":8170,"Name":"Nobis","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8147,"Domain":"anovaculinary.com","Merchant":{"ID":8173,"Name":"Anova","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":8152,"Domain":"avaleacouture.com","Merchant":{"ID":8176,"Name":"Ava Lea Couture","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8156,"Domain":"wirexapp.com","Merchant":{"ID":8178,"Name":"Wirex","MaxRate":{"Kind":"FLAT","Amount":"25","Currency":"USD"}}}
+{"ID":8157,"Domain":"popcornopolis.com","Merchant":{"ID":8180,"Name":"Popcornopolis","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":8126,"Domain":"jumperthreads.com","Merchant":{"ID":8187,"Name":"JUMPER Premium Threads","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":60734,"Domain":"skinnydiplondon.com","Merchant":{"ID":8241,"Name":"Skinnydip","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":8235,"Domain":"fashionfabricsclub.com","Merchant":{"ID":8247,"Name":"Fashion Fabrics Club","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":8238,"Domain":"sea-ny.com","Merchant":{"ID":8250,"Name":"Sea New York","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":7552,"Domain":"sitejet.io","Merchant":{"ID":8254,"Name":"Sitejet","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":8153,"Domain":"spongelle.com","Merchant":{"ID":8255,"Name":"Spongelle","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5518248,"Domain":"melindamaria.com","Merchant":{"ID":8257,"Name":"Melinda Maria","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":8203,"Domain":"karllagerfeldparis.com","Merchant":{"ID":8264,"Name":"Karl Lagerfeld Paris","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.8"}}}
+{"ID":8201,"Domain":"receptranaturals.com","Merchant":{"ID":8265,"Name":"Receptra","MaxRate":{"Kind":"PERCENTAGE","Amount":"8"}}}
+{"ID":8200,"Domain":"rvca.com","Merchant":{"ID":8266,"Name":"RVCA","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":3919424,"Domain":"belkin.com","Merchant":{"ID":8268,"Name":"Belkin","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":8207,"Domain":"sewvacdirect.com","Merchant":{"ID":8272,"Name":"Sew Vac Direct","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8209,"Domain":"baabuk.com","Merchant":{"ID":8274,"Name":"Baabuk","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":8210,"Domain":"jillstuartbeautyusa.com","Merchant":{"ID":8275,"Name":"Jill Stuart Beauty","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":8212,"Domain":"greensmartliving.com","Merchant":{"ID":8277,"Name":"GreenSmartLiving","MaxRate":{"Kind":"PERCENTAGE","Amount":"8"}}}
+{"ID":7984,"Domain":"aeraforhome.com","Merchant":{"ID":8278,"Name":"Aera","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8220,"Domain":"posanhanguera.com.br","Merchant":{"ID":8282,"Name":"AnhangueraPos","MaxRate":{"Kind":"FLAT","Amount":"95","Currency":"RUB"}}}
+{"ID":5520390,"Domain":"aramis.com.br","Merchant":{"ID":8283,"Name":"Aramis","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":8223,"Domain":"drogaraia.com.br","Merchant":{"ID":8287,"Name":"DrogaRaia","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":8224,"Domain":"drogasil.com.br","Merchant":{"ID":8288,"Name":"Drogasil","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":7585,"Domain":"outletespacociahering.com.br","Merchant":{"ID":8289,"Name":"HeringOutlet","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":8225,"Domain":"klasme.com","Merchant":{"ID":8290,"Name":"Klasme","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5520384,"Domain":"kroton.com.br","Merchant":{"ID":8291,"Name":"KrotonBR","MaxRate":{"Kind":"FLAT","Amount":"76","Currency":"BRL"}}}
+{"ID":8226,"Domain":"portalpos.com.br","Merchant":{"ID":8291,"Name":"KrotonBR","MaxRate":{"Kind":"FLAT","Amount":"95","Currency":"RUB"}}}
+{"ID":8298,"Domain":"worldnutrition.net","Merchant":{"ID":8350,"Name":"World Nutrition Inc.","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":8308,"Domain":"carolina.com","Merchant":{"ID":8357,"Name":"Carolina Biological Supply Company","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":8348,"Domain":"carbon6rings.com","Merchant":{"ID":8358,"Name":"Carbon6","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7607,"Domain":"rvshare.com","Merchant":{"ID":8365,"Name":"RVShare","MaxRate":{"Kind":"FLAT","Amount":"25","Currency":"USD"}}}
+{"ID":8318,"Domain":"creativeqt.net","Merchant":{"ID":8373,"Name":"Creative QT","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":102904,"Domain":"creativeqt.com","Merchant":{"ID":8373,"Name":"Creative QT","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8392,"Domain":"lifetimeleather.com","Merchant":{"ID":8422,"Name":"Lifetime Leather Co","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8394,"Domain":"betterlisten.com","Merchant":{"ID":8424,"Name":"BetterLIsten LLC","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":8332,"Domain":"bodybossportablegym.com","Merchant":{"ID":8426,"Name":"BodyBoss","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8328,"Domain":"k12.com","Merchant":{"ID":8430,"Name":"K12.com","MaxRate":{"Kind":"FLAT","Amount":"2.5","Currency":"USD"}}}
+{"ID":5518302,"Domain":"tourparavel.com","Merchant":{"ID":8432,"Name":"Paravel","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":8329,"Domain":"4seating.com","Merchant":{"ID":8434,"Name":"4seating.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":8336,"Domain":"critterzoneusa.com","Merchant":{"ID":8437,"Name":"CritterZone USA, LLC","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5515166,"Domain":"saybyebugs.com","Merchant":{"ID":8447,"Name":"SayByeBugs","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.8"}}}
+{"ID":78273,"Domain":"c9ergo.com","Merchant":{"ID":8452,"Name":"Jestik","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":6627,"Domain":"ergostyles.com","Merchant":{"ID":8452,"Name":"Jestik","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":122752,"Domain":"cloudnineergo.com","Merchant":{"ID":8452,"Name":"Jestik","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":8484,"Domain":"hyrecar.com","Merchant":{"ID":8510,"Name":"HyreCar","MaxRate":{"Kind":"FLAT","Amount":"42.5","Currency":"USD"}}}
+{"ID":8490,"Domain":"pvolve.com","Merchant":{"ID":8516,"Name":"P.volve","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8492,"Domain":"thekooples.com","Merchant":{"ID":8518,"Name":"The Kooples","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":8493,"Domain":"juneandjanuary.com","Merchant":{"ID":8519,"Name":"June & January","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":8496,"Domain":"modernfertility.com","Merchant":{"ID":8521,"Name":"Modern Fertility","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":5503003,"Domain":"sockfancy.com","Merchant":{"ID":8525,"Name":"Sock Fancy","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":8500,"Domain":"alphamarts.com","Merchant":{"ID":8528,"Name":"AlphaMart's","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":8463,"Domain":"pneustore.com.br","Merchant":{"ID":8535,"Name":"PneuStore","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":5503253,"Domain":"bannerbuzz.com","Merchant":{"ID":8552,"Name":"BannerBuzz","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5504391,"Domain":"bannerbuzz.ca","Merchant":{"ID":8552,"Name":"BannerBuzz","MaxRate":{"Kind":"PERCENTAGE","Amount":"7"}}}
+{"ID":5504033,"Domain":"bannerbuzz.com.au","Merchant":{"ID":8552,"Name":"BannerBuzz","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":8481,"Domain":"undercovermama.com","Merchant":{"ID":8557,"Name":"Undercover Mama","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8482,"Domain":"bedeckhome.com","Merchant":{"ID":8560,"Name":"Bedeck Home","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":8545,"Domain":"aslanmattress.com","Merchant":{"ID":8569,"Name":"Aslan Mattress","MaxRate":{"Kind":"FLAT","Amount":"0.5","Currency":"USD"}}}
+{"ID":8576,"Domain":"thisworks.com","Merchant":{"ID":8614,"Name":"This Works Cosmetics","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":8586,"Domain":"hering.com.br","Merchant":{"ID":8624,"Name":"CiaHering","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":8597,"Domain":"borntough.com","Merchant":{"ID":8631,"Name":"Born Tough","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":91913,"Domain":"graduationmall.com","Merchant":{"ID":8632,"Name":"LUYA Enterprise Inc","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":8596,"Domain":"aionaalive.com","Merchant":{"ID":8637,"Name":"AIONA ALIVE SKIN CARE","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8548,"Domain":"bladetap.com","Merchant":{"ID":8639,"Name":"BladeTap, Inc.","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":8571,"Domain":"framedbikes.com","Merchant":{"ID":8641,"Name":"Framed Bikes","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":8606,"Domain":"lorac.com","Merchant":{"ID":8643,"Name":"Lorac","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":102194,"Domain":"jaquishbiomedical.com","Merchant":{"ID":8731,"Name":"X3 Complete Home Gym","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":8681,"Domain":"x3bar.com","Merchant":{"ID":8731,"Name":"X3 Complete Home Gym","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":8689,"Domain":"aimeekestenberg.com","Merchant":{"ID":8733,"Name":"Aimee Kestenberg","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":8648,"Domain":"rockpals.com","Merchant":{"ID":8738,"Name":"Rockpals","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":8651,"Domain":"findurings.com","Merchant":{"ID":8739,"Name":"Guangzhou Ruibei Trade Ltd, Co.","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":8662,"Domain":"aidanceproducts.com","Merchant":{"ID":8745,"Name":"Aidance","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":95249,"Domain":"brightech.com","Merchant":{"ID":8747,"Name":"Brightech","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":8683,"Domain":"brightechshop.com","Merchant":{"ID":8747,"Name":"Brightech","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":8661,"Domain":"surfshark.com","Merchant":{"ID":8749,"Name":"Surfshark","MaxRate":{"Kind":"PERCENTAGE","Amount":"20"}}}
+{"ID":8663,"Domain":"suitehop.com","Merchant":{"ID":8752,"Name":"SuiteHop","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":8671,"Domain":"kuvrdcamera.com","Merchant":{"ID":8756,"Name":"KUVRD","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":8664,"Domain":"shopmint.com","Merchant":{"ID":8757,"Name":"Mint Clothing Boutiques","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":8665,"Domain":"bluecoolers.com","Merchant":{"ID":8758,"Name":"Blue Coolers","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":8666,"Domain":"lucyd.co","Merchant":{"ID":8759,"Name":"Lucyd","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":8674,"Domain":"ivapeiq.com","Merchant":{"ID":8761,"Name":"ivapeiq","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8698,"Domain":"surveyjunkie.com","Merchant":{"ID":8768,"Name":"Survey Junkie","MaxRate":{"Kind":"FLAT","Amount":"10","Currency":"USD"}}}
+{"ID":8700,"Domain":"americaint.com","Merchant":{"ID":8770,"Name":"Horizon Advertising","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8702,"Domain":"icechips.com","Merchant":{"ID":8772,"Name":"Ice Chips Candy","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8705,"Domain":"onlinestarmap.com","Merchant":{"ID":8775,"Name":"Star Register (Online StarMap)","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":8672,"Domain":"antonioli.eu","Merchant":{"ID":8784,"Name":"Antonioli","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":8687,"Domain":"shopsonix.com","Merchant":{"ID":8786,"Name":"ShopSonix","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8676,"Domain":"smallsforsmalls.com","Merchant":{"ID":8790,"Name":"Smalls","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":8679,"Domain":"mindvalley.com","Merchant":{"ID":8791,"Name":"Mindvalley","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":8890,"Domain":"apparentsoft.com","Merchant":{"ID":8895,"Name":"Apparent Software Inc.","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":123286,"Domain":"urbansadhubeauty.com","Merchant":{"ID":8900,"Name":"Urban Beauty","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":8808,"Domain":"grosche.ca","Merchant":{"ID":8904,"Name":"Grosche International Inc.","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8863,"Domain":"wholesalechess.com","Merchant":{"ID":8906,"Name":"Wholesale Chess","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.2"}}}
+{"ID":8866,"Domain":"bakblade.com","Merchant":{"ID":8907,"Name":"BAKblade","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":8197,"Domain":"elevationlab.com","Merchant":{"ID":8908,"Name":"Elevation Lab","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":7572,"Domain":"evernew.ca","Merchant":{"ID":8910,"Name":"Ever New","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":8871,"Domain":"codakid.com","Merchant":{"ID":8913,"Name":"CodaKid","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8721,"Domain":"privacypolicies.com","Merchant":{"ID":8918,"Name":"PrivacyPolicies.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"25"}}}
+{"ID":8724,"Domain":"gochirp.com","Merchant":{"ID":8920,"Name":"Chirp","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":8717,"Domain":"freeprivacypolicy.com","Merchant":{"ID":8922,"Name":"FreePrivacyPolicy.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"25"}}}
+{"ID":8819,"Domain":"deandavidson.ca","Merchant":{"ID":8930,"Name":"Dean Davidson","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":8881,"Domain":"gadgetdiscoveryclub.com","Merchant":{"ID":8931,"Name":"Gadget Discovery Club","MaxRate":{"Kind":"FLAT","Amount":"5","Currency":"USD"}}}
+{"ID":8830,"Domain":"culinaryteas.com","Merchant":{"ID":8942,"Name":"Culinary Teas","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8838,"Domain":"brandless.com","Merchant":{"ID":8945,"Name":"Brandless","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":8885,"Domain":"bemz.com","Merchant":{"ID":8948,"Name":"Bemz","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":8855,"Domain":"smokstore.com","Merchant":{"ID":8949,"Name":"smokstore","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":96464,"Domain":"metagauss.com","Merchant":{"ID":8951,"Name":"MetaGauss","MaxRate":{"Kind":"PERCENTAGE","Amount":"15"}}}
+{"ID":8857,"Domain":"registrationmagic.com","Merchant":{"ID":8951,"Name":"MetaGauss","MaxRate":{"Kind":"PERCENTAGE","Amount":"15"}}}
+{"ID":8839,"Domain":"eatwith.com","Merchant":{"ID":8953,"Name":"EatWith","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":8861,"Domain":"chicos.com","Merchant":{"ID":8958,"Name":"Chico's","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8716,"Domain":"paktbags.com","Merchant":{"ID":8961,"Name":"Pakt Bags","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":6338,"Domain":"loveshackfancy.com","Merchant":{"ID":8965,"Name":"LOVESHACKFANCY","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":3855519,"Domain":"magix.com","Merchant":{"ID":8969,"Name":"MAGIX & VEGAS Creative Software","MaxRate":{"Kind":"PERCENTAGE","Amount":"20"}}}
+{"ID":9322,"Domain":"vegascreativesoftware.com","Merchant":{"ID":8969,"Name":"MAGIX & VEGAS Creative Software","MaxRate":{"Kind":"PERCENTAGE","Amount":"12"}}}
+{"ID":8841,"Domain":"sonycreativesoftware.com","Merchant":{"ID":8969,"Name":"MAGIX & VEGAS Creative Software","MaxRate":{"Kind":"PERCENTAGE","Amount":"12"}}}
+{"ID":8818,"Domain":"bonsoiroflondon.com","Merchant":{"ID":8971,"Name":"Bonsoir of London","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":3921716,"Domain":"iwantoneofthose.com","Merchant":{"ID":8973,"Name":"iwantoneofthose.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":73133,"Domain":"iwoot.us","Merchant":{"ID":8973,"Name":"iwantoneofthose.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":8868,"Domain":"kammok.com","Merchant":{"ID":8974,"Name":"Kammok","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":2189632,"Domain":"freshdirect.com","Merchant":{"ID":8981,"Name":"FreshDirect","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":8862,"Domain":"nordgreen.com","Merchant":{"ID":8988,"Name":"Nordgreen","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":8844,"Domain":"rossignol.com","Merchant":{"ID":8989,"Name":"Rossignol","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5503331,"Domain":"aninebing.com","Merchant":{"ID":9136,"Name":"ANINE BING","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":8990,"Domain":"meditation-and-hypnosis-downloads-and-ebooks.contentshelf.com","Merchant":{"ID":9137,"Name":"Jennifer McVey","MaxRate":{"Kind":"PERCENTAGE","Amount":"25"}}}
+{"ID":9119,"Domain":"streaming.contentshelf.com","Merchant":{"ID":9137,"Name":"Jennifer McVey","MaxRate":{"Kind":"PERCENTAGE","Amount":"25"}}}
+{"ID":8991,"Domain":"peachcouture.com","Merchant":{"ID":9138,"Name":"peach couture","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8994,"Domain":"elfisanta.com","Merchant":{"ID":9141,"Name":"Elfi Santa","MaxRate":{"Kind":"PERCENTAGE","Amount":"15"}}}
+{"ID":8995,"Domain":"wotofo.com","Merchant":{"ID":9142,"Name":"Shenzhen WOTOFO Technology Co., Ltd","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":8998,"Domain":"kidmademodern.com","Merchant":{"ID":9145,"Name":"Kid Made Modern","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9016,"Domain":"brandcrowd.com","Merchant":{"ID":9147,"Name":"BrandCrowd","MaxRate":{"Kind":"FLAT","Amount":"10","Currency":"USD"}}}
+{"ID":9022,"Domain":"onebonebrand.com","Merchant":{"ID":9153,"Name":"OneBone","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":9005,"Domain":"thomasdean.com","Merchant":{"ID":9154,"Name":"Thomas Dean & Co","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":67360,"Domain":"shop.mukzin.com","Merchant":{"ID":9179,"Name":"Hangzhou Fuyang Zema E-commerce Co., Ltd.","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":9028,"Domain":"bodyography.com","Merchant":{"ID":9182,"Name":"Bodyography","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.8"}}}
+{"ID":9027,"Domain":"especiallyyours.com","Merchant":{"ID":9185,"Name":"Especially Yours","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9025,"Domain":"wig.com","Merchant":{"ID":9189,"Name":"Wig.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7652,"Domain":"hellomolly.com","Merchant":{"ID":9190,"Name":"HelloMolly","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5515188,"Domain":"jumpsport.com","Merchant":{"ID":9192,"Name":"JumpSport","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":9042,"Domain":"myheritage.com","Merchant":{"ID":9194,"Name":"MyHeritage","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":9045,"Domain":"defensivedriving.com","Merchant":{"ID":9199,"Name":"DefensiveDriving.com","MaxRate":{"Kind":"FLAT","Amount":"10","Currency":"USD"}}}
+{"ID":9048,"Domain":"qunol.com","Merchant":{"ID":9202,"Name":"Qunol","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":9049,"Domain":"jbubs.com","Merchant":{"ID":9203,"Name":"J. Bubs","MaxRate":{"Kind":"PERCENTAGE","Amount":"6.25"}}}
+{"ID":9053,"Domain":"borrowlenses.com","Merchant":{"ID":9207,"Name":"BorrowLenses","MaxRate":{"Kind":"FLAT","Amount":"0.005","Currency":"USD"}}}
+{"ID":9060,"Domain":"h10hotels.com","Merchant":{"ID":9218,"Name":"H10 Hotels","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":9061,"Domain":"corinthia.com","Merchant":{"ID":9219,"Name":"Corinthia","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9062,"Domain":"chatrium.com","Merchant":{"ID":9221,"Name":"Chatrium Hotels","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":9063,"Domain":"dusit.com","Merchant":{"ID":9222,"Name":"Dusit International","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":9064,"Domain":"lebua.com","Merchant":{"ID":9223,"Name":"Lebua Hotels","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9065,"Domain":"onyx-hospitality.com","Merchant":{"ID":9224,"Name":"Onyx Hospitality","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9069,"Domain":"belivehotels.com","Merchant":{"ID":9229,"Name":"Be Live Hotels","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.25"}}}
+{"ID":3921502,"Domain":"hotelopia.com","Merchant":{"ID":9230,"Name":"Hotelopia","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":9071,"Domain":"oberoihotels.com","Merchant":{"ID":9232,"Name":"Oberoi Hotels","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":9072,"Domain":"tridenthotels.com","Merchant":{"ID":9233,"Name":"Trident Hotels","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":122613,"Domain":"experiences.travel.rakuten.com","Merchant":{"ID":9235,"Name":"Voyagin","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":9074,"Domain":"govoyagin.com","Merchant":{"ID":9235,"Name":"Voyagin","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":9075,"Domain":"urbanista.com","Merchant":{"ID":9237,"Name":"Urbanista","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9079,"Domain":"backsupportsystems.com","Merchant":{"ID":9241,"Name":"Back Support Systems INC","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":3923194,"Domain":"pedroshoes.com","Merchant":{"ID":9245,"Name":"Pedro Shoes","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":9041,"Domain":"cookunity.com","Merchant":{"ID":9247,"Name":"Cook Unity","MaxRate":{"Kind":"FLAT","Amount":"5","Currency":"USD"}}}
+{"ID":5520583,"Domain":"illesteva.com","Merchant":{"ID":9249,"Name":"illesteva","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.2"}}}
+{"ID":9087,"Domain":"storz-bickel.com","Merchant":{"ID":9251,"Name":"Storz&Bickel","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9089,"Domain":"mignonfaget.com","Merchant":{"ID":9252,"Name":"Mignon Faget","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":3920171,"Domain":"dell.com","Merchant":{"ID":9253,"Name":"Dell Home & Home Office","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":8816,"Domain":"gabrielny.com","Merchant":{"ID":9258,"Name":"Gabriel & Co. Fine Jewelry And Bridal","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9105,"Domain":"bedbathandbeyond.com","Merchant":{"ID":9262,"Name":"Bed Bath & Beyond","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":76096,"Domain":"bedbathandbeyond.ca","Merchant":{"ID":9262,"Name":"Bed Bath & Beyond","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9103,"Domain":"lensabl.com","Merchant":{"ID":9263,"Name":"Lensabl - The Online Optometrist","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":9106,"Domain":"buybuybaby.com","Merchant":{"ID":9264,"Name":"buybuyBABY","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9107,"Domain":"coxmediagroup.com","Merchant":{"ID":9265,"Name":"Cox Communications","MaxRate":{"Kind":"FLAT","Amount":"18","Currency":"USD"}}}
+{"ID":122579,"Domain":"cmg.com","Merchant":{"ID":9265,"Name":"Cox Communications","MaxRate":{"Kind":"FLAT","Amount":"18","Currency":"USD"}}}
+{"ID":104249,"Domain":"cox.com","Merchant":{"ID":9265,"Name":"Cox Communications","MaxRate":{"Kind":"FLAT","Amount":"22.5","Currency":"USD"}}}
+{"ID":9108,"Domain":"altatac.com","Merchant":{"ID":9266,"Name":"Altatac Inc.","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9110,"Domain":"photowhoa.com","Merchant":{"ID":9268,"Name":"photowhoa","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":9114,"Domain":"abershoes.com","Merchant":{"ID":9272,"Name":"Aber Shoes","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":5514019,"Domain":"trackimo.com","Merchant":{"ID":9273,"Name":"Trackimo","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":9118,"Domain":"leam.com","Merchant":{"ID":9274,"Name":"Leam","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.5"}}}
+{"ID":9122,"Domain":"hytest.com","Merchant":{"ID":9276,"Name":"Hytest","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":9126,"Domain":"brokedick.com","Merchant":{"ID":9282,"Name":"Broke Dick Juice","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":9130,"Domain":"petkrewe.com","Merchant":{"ID":9286,"Name":"Pet Krewe","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5052750,"Domain":"worldremit.com","Merchant":{"ID":9288,"Name":"WorldRemit","MaxRate":{"Kind":"FLAT","Amount":"10","Currency":"USD"}}}
+{"ID":5514000,"Domain":"driftaway.coffee","Merchant":{"ID":9291,"Name":"Driftaway Coffee","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":9156,"Domain":"ionbox.net","Merchant":{"ID":9295,"Name":"IonPacific","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":9157,"Domain":"glarrymusic.com","Merchant":{"ID":9296,"Name":"Fastbuy Inc","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":9159,"Domain":"homegrownherbalist.net","Merchant":{"ID":9298,"Name":"Home Grown Herbalist","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9160,"Domain":"melodysusie.com","Merchant":{"ID":9299,"Name":"Melodysusie","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":9169,"Domain":"dior.com","Merchant":{"ID":9302,"Name":"Dior","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":9170,"Domain":"maxpeedingrods.com","Merchant":{"ID":9303,"Name":"MaXpeedingrods","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":93938,"Domain":"threedots.com","Merchant":{"ID":9305,"Name":"Three Dots","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9210,"Domain":"kidshoo.com","Merchant":{"ID":9307,"Name":"Nanjing mountain stone Software Co., Ltd.","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":9214,"Domain":"zkaka.com","Merchant":{"ID":9312,"Name":"baymate co.,ltd.","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":6199,"Domain":"widewidths.com","Merchant":{"ID":9315,"Name":"WideWidths.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9133,"Domain":"odealarose.com","Merchant":{"ID":9351,"Name":"Ode à la Rose","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":4611571,"Domain":"bjs.com","Merchant":{"ID":9359,"Name":"BJ's Wholesale Club","MaxRate":{"Kind":"PERCENTAGE","Amount":"8"}}}
+{"ID":9329,"Domain":"dollarsockcrew.com","Merchant":{"ID":9364,"Name":"3KB Brands","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":32664,"Domain":"chiavaye.com","Merchant":{"ID":9368,"Name":"Chiavare, LLC","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":9333,"Domain":"chiavareoil.com","Merchant":{"ID":9368,"Name":"Chiavare, LLC","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":9344,"Domain":"biffi.com","Merchant":{"ID":9369,"Name":"Biffi Boutique Spa","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":5520714,"Domain":"puretalkusa.com","Merchant":{"ID":9370,"Name":"PureTalk USA","MaxRate":{"Kind":"FLAT","Amount":"15","Currency":"USD"}}}
+{"ID":8720,"Domain":"nataliemills.com","Merchant":{"ID":9371,"Name":"NATALIE MILLS","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":9383,"Domain":"urbanstems.com","Merchant":{"ID":9386,"Name":"UrbanStems","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":9117,"Domain":"fitformulawellness.com","Merchant":{"ID":9390,"Name":"FitFormula Wellness","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":3923276,"Domain":"photos.com","Merchant":{"ID":9410,"Name":"Photos by Getty Images","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.6"}}}
+{"ID":123875,"Domain":"vitalproteins.it","Merchant":{"ID":9421,"Name":"Vital Proteins","MaxRate":{"Kind":"PERCENTAGE","Amount":"5.15"}}}
+{"ID":93379,"Domain":"vitalproteins.co.uk","Merchant":{"ID":9421,"Name":"Vital Proteins","MaxRate":{"Kind":"PERCENTAGE","Amount":"6.5"}}}
+{"ID":100290,"Domain":"vitalproteins.nl","Merchant":{"ID":9421,"Name":"Vital Proteins","MaxRate":{"Kind":"PERCENTAGE","Amount":"6.5"}}}
+{"ID":100790,"Domain":"vitalproteins.fr","Merchant":{"ID":9421,"Name":"Vital Proteins","MaxRate":{"Kind":"PERCENTAGE","Amount":"6.5"}}}
+{"ID":9418,"Domain":"vitalproteins.com","Merchant":{"ID":9421,"Name":"Vital Proteins","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":107254,"Domain":"vitalproteins.de","Merchant":{"ID":9421,"Name":"Vital Proteins","MaxRate":{"Kind":"PERCENTAGE","Amount":"6.5"}}}
+{"ID":9429,"Domain":"forzasports.com","Merchant":{"ID":9458,"Name":"Forza Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":9450,"Domain":"thejockeyclub.co.uk","Merchant":{"ID":9461,"Name":"Jockey Club Racecourses Limited","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":9414,"Domain":"hostnoc.com","Merchant":{"ID":9465,"Name":"HostNoc","MaxRate":{"Kind":"PERCENTAGE","Amount":"25"}}}
+{"ID":9424,"Domain":"healthtestingcenters.com","Merchant":{"ID":9468,"Name":"Health Testing Centers","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":9343,"Domain":"stryx.com","Merchant":{"ID":9469,"Name":"Stryx","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":9416,"Domain":"emclient.com","Merchant":{"ID":9470,"Name":"eM Client","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":8851,"Domain":"brooklynbrewshop.com","Merchant":{"ID":9472,"Name":"Brooklyn Brew Shop","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":9417,"Domain":"lifeandhome.com","Merchant":{"ID":9473,"Name":"Life and Home","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":9446,"Domain":"habitatfurnishings.com","Merchant":{"ID":9476,"Name":"United States Watermattress","MaxRate":{"Kind":"FLAT","Amount":"50","Currency":"USD"}}}
+{"ID":9447,"Domain":"skylaryoo.com","Merchant":{"ID":9477,"Name":"Skylar Yoo","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":9439,"Domain":"gainful.com","Merchant":{"ID":9483,"Name":"Gainful","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":9451,"Domain":"derek-rose.com","Merchant":{"ID":9484,"Name":"Derek Rose","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5518345,"Domain":"felina.com","Merchant":{"ID":9517,"Name":"Felina Intimates","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9499,"Domain":"squarespace.com","Merchant":{"ID":9518,"Name":"Squarespace","MaxRate":{"Kind":"FLAT","Amount":"25","Currency":"USD"}}}
+{"ID":9101,"Domain":"coastalco.com","Merchant":{"ID":9519,"Name":"Coastal Co.","MaxRate":{"Kind":"FLAT","Amount":"22.5","Currency":"USD"}}}
+{"ID":55865,"Domain":"beach.ly","Merchant":{"ID":9519,"Name":"Coastal Co.","MaxRate":{"Kind":"FLAT","Amount":"22.5","Currency":"USD"}}}
+{"ID":6954,"Domain":"esrgear.com","Merchant":{"ID":9525,"Name":"ESR Gear","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":6166,"Domain":"stepanistyle.com","Merchant":{"ID":9558,"Name":"Stepani Style","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":9575,"Domain":"yourmechanic.com","Merchant":{"ID":9580,"Name":"YourMechanic","MaxRate":{"Kind":"FLAT","Amount":"5","Currency":"USD"}}}
+{"ID":30207,"Domain":"llbean.com","Merchant":{"ID":31259,"Name":"L.L. Bean","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.6"}}}
+{"ID":9338,"Domain":"thewinstonbox.com","Merchant":{"ID":32316,"Name":"The Winston Box","MaxRate":{"Kind":"FLAT","Amount":"12.5","Currency":"USD"}}}
+{"ID":9505,"Domain":"splashwines.com","Merchant":{"ID":34452,"Name":"Splash Wines","MaxRate":{"Kind":"FLAT","Amount":"22.5","Currency":"USD"}}}
+{"ID":31271,"Domain":"tadaandtoy.com","Merchant":{"ID":34454,"Name":"Tada & Toy","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":31261,"Domain":"tenorshare.com","Merchant":{"ID":34461,"Name":"Tenorshare","MaxRate":{"Kind":"PERCENTAGE","Amount":"25"}}}
+{"ID":5503076,"Domain":"candyclub.com","Merchant":{"ID":34462,"Name":"Candy Club","MaxRate":{"Kind":"FLAT","Amount":"3.5","Currency":"USD"}}}
+{"ID":31635,"Domain":"waxelene.com","Merchant":{"ID":34464,"Name":"Waxelene","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":31001,"Domain":"ergonofis.com","Merchant":{"ID":34465,"Name":"ergonofis","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":25817,"Domain":"performasleep.com","Merchant":{"ID":34468,"Name":"PerformaSleep","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":35227,"Domain":"oneclass.com","Merchant":{"ID":36297,"Name":"OneClass","MaxRate":{"Kind":"FLAT","Amount":"1.6","Currency":"USD"}}}
+{"ID":35249,"Domain":"openfit.com","Merchant":{"ID":36328,"Name":"Openfit","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":34842,"Domain":"logicproducts.com","Merchant":{"ID":36332,"Name":"Logic Products","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":35252,"Domain":"oohlaluxe.com","Merchant":{"ID":36333,"Name":"Ooh La Luxe","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":5514560,"Domain":"lancerskincare.com","Merchant":{"ID":36334,"Name":"Lancer Skincare","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.75"}}}
+{"ID":35235,"Domain":"oraclelights.com","Merchant":{"ID":36336,"Name":"ORACLE Lighting","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":35245,"Domain":"presetpro.com","Merchant":{"ID":36346,"Name":"Presetpro Lightroom Presets","MaxRate":{"Kind":"PERCENTAGE","Amount":"15"}}}
+{"ID":36320,"Domain":"meethue.com","Merchant":{"ID":36632,"Name":"Philips Hue","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":77695,"Domain":"philips-hue.com","Merchant":{"ID":36632,"Name":"Philips Hue","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":36315,"Domain":"mapiful.com","Merchant":{"ID":36635,"Name":"Mapiful","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":36360,"Domain":"kogalla.com","Merchant":{"ID":36646,"Name":"Kogalla","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":127610,"Domain":"astratex.gr","Merchant":{"ID":36654,"Name":"ASTRATEX","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":39444,"Domain":"astratex.bg","Merchant":{"ID":36654,"Name":"ASTRATEX","MaxRate":{"Kind":"PERCENTAGE","Amount":"7"}}}
+{"ID":127859,"Domain":"astratex.ua","Merchant":{"ID":36654,"Name":"ASTRATEX","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":35230,"Domain":"pollen.co","Merchant":{"ID":36658,"Name":"Pollen","MaxRate":{"Kind":"FLAT","Amount":"2","Currency":"USD"}}}
+{"ID":34831,"Domain":"meatprocessingproducts.com","Merchant":{"ID":36659,"Name":"Meat Processing Products","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.8"}}}
+{"ID":35253,"Domain":"raymond-weil.us","Merchant":{"ID":36672,"Name":"Raymond Weil","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.2"}}}
+{"ID":35221,"Domain":"pytbeauty.com","Merchant":{"ID":36674,"Name":"PYT Beauty","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":34834,"Domain":"praibeauty.com","Merchant":{"ID":36677,"Name":"Prai Beauty","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":99820,"Domain":"praibeauty.co.uk","Merchant":{"ID":36677,"Name":"Prai Beauty","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":34818,"Domain":"purplecarrot.com","Merchant":{"ID":36680,"Name":"Purple Carrot","MaxRate":{"Kind":"FLAT","Amount":"5","Currency":"USD"}}}
+{"ID":36321,"Domain":"greatwolf.com","Merchant":{"ID":36683,"Name":"Great Wolf Lodge","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":35269,"Domain":"realketones.com","Merchant":{"ID":36684,"Name":"Real Ketones","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":128570,"Domain":"shop.nationalgallery.org.uk","Merchant":{"ID":36686,"Name":"National Gallery","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":20193,"Domain":"nationalgallery.co.uk","Merchant":{"ID":36686,"Name":"National Gallery","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":36359,"Domain":"timesharespecialists.com","Merchant":{"ID":36691,"Name":"Timeshare Specialists","MaxRate":{"Kind":"FLAT","Amount":"17.5","Currency":"USD"}}}
+{"ID":35254,"Domain":"rue21.com","Merchant":{"ID":36692,"Name":"rue21","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":34854,"Domain":"mymedic.com","Merchant":{"ID":36695,"Name":"MyMedic","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":6960,"Domain":"rackroomshoes.com","Merchant":{"ID":36698,"Name":"Rack Room Shoes","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":95245,"Domain":"goodlines.com","Merchant":{"ID":36700,"Name":"Boob Tape","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":34860,"Domain":"buyboobtape.com","Merchant":{"ID":36700,"Name":"Boob Tape","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":34827,"Domain":"chamberlain.com","Merchant":{"ID":36701,"Name":"Chamberlain","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5514878,"Domain":"lendkey.com","Merchant":{"ID":36703,"Name":"LendKey","MaxRate":{"Kind":"FLAT","Amount":"100","Currency":"USD"}}}
+{"ID":34821,"Domain":"forsake.com","Merchant":{"ID":36704,"Name":"Forsake","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":34830,"Domain":"gotomeeting.com","Merchant":{"ID":36705,"Name":"GoToMeeting","MaxRate":{"Kind":"FLAT","Amount":"40","Currency":"USD"}}}
+{"ID":78017,"Domain":"gotowebinar.com","Merchant":{"ID":36705,"Name":"GoToMeeting","MaxRate":{"Kind":"FLAT","Amount":"40","Currency":"USD"}}}
+{"ID":36717,"Domain":"biovea.com","Merchant":{"ID":36722,"Name":"Biovea","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":36718,"Domain":"kapitus.com","Merchant":{"ID":36723,"Name":"Kapitus Business Financing","MaxRate":{"Kind":"FLAT","Amount":"25","Currency":"USD"}}}
+{"ID":36719,"Domain":"jaxndaisy.com","Merchant":{"ID":36724,"Name":"Jax n Daisy","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":36720,"Domain":"healthlabs.com","Merchant":{"ID":36725,"Name":"HealthLabs","MaxRate":{"Kind":"PERCENTAGE","Amount":"15"}}}
+{"ID":36356,"Domain":"mtnops.com","Merchant":{"ID":36728,"Name":"MTN OPS","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":36358,"Domain":"tbo.clothing","Merchant":{"ID":36731,"Name":"T-Bo Clothing","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":36371,"Domain":"sagefinds.com","Merchant":{"ID":36735,"Name":"SageFinds","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":34852,"Domain":"lucydarling.com","Merchant":{"ID":36739,"Name":"Lucy Darling","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":34814,"Domain":"hook360.com","Merchant":{"ID":36740,"Name":"Hook360","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":44533,"Domain":"miraclecbdproudcts.com","Merchant":{"ID":36748,"Name":"Miracle Nutritional","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":16468,"Domain":"mnpcbd.com","Merchant":{"ID":36748,"Name":"Miracle Nutritional","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":48851,"Domain":"miraclecbdproducts.com","Merchant":{"ID":36748,"Name":"Miracle Nutritional","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":34833,"Domain":"smkw.com","Merchant":{"ID":36749,"Name":"Smokey Mountain Knife Works","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":34812,"Domain":"cabelas.com","Merchant":{"ID":36752,"Name":"Cabela's","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":130430,"Domain":"cabelas.ca","Merchant":{"ID":36752,"Name":"Cabela's","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":16459,"Domain":"missionfarmscbd.com","Merchant":{"ID":36753,"Name":"Mission Farms CBD","MaxRate":{"Kind":"PERCENTAGE","Amount":"15"}}}
+{"ID":102293,"Domain":"de.seenebula.com","Merchant":{"ID":36754,"Name":"Nebula","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":102292,"Domain":"uk.seenebula.com","Merchant":{"ID":36754,"Name":"Nebula","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":100384,"Domain":"us.seenebula.com","Merchant":{"ID":36754,"Name":"Nebula","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":34847,"Domain":"4moms.com","Merchant":{"ID":36757,"Name":"4moms","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5518240,"Domain":"shop.4moms.com","Merchant":{"ID":36757,"Name":"4moms","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":34825,"Domain":"calcuttaoutdoors.com","Merchant":{"ID":36759,"Name":"Calcutta Outdoors","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":34832,"Domain":"tanyataylor.com","Merchant":{"ID":36760,"Name":"Tanya Taylor","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":34853,"Domain":"splendidspoon.com","Merchant":{"ID":36765,"Name":"Splendid Spoon","MaxRate":{"Kind":"FLAT","Amount":"20","Currency":"USD"}}}
+{"ID":16456,"Domain":"pointahotels.com","Merchant":{"ID":36768,"Name":"Queensway Hotels","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":16461,"Domain":"fashiontofigure.com","Merchant":{"ID":36769,"Name":"Fashion to Figure","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":34822,"Domain":"themadoptimist.com","Merchant":{"ID":36774,"Name":"The Mad Optimist","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.4"}}}
+{"ID":9628,"Domain":"touchland.com","Merchant":{"ID":36781,"Name":"Touchland","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":36307,"Domain":"cymbiotika.com","Merchant":{"ID":36782,"Name":"Cymbiotika","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":36300,"Domain":"camelbak.com","Merchant":{"ID":36783,"Name":"CamelBak","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5514433,"Domain":"jimmychoo.com","Merchant":{"ID":36784,"Name":"Jimmy Choo","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":34867,"Domain":"us.jimmychoo.com","Merchant":{"ID":36784,"Name":"Jimmy Choo","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":75439,"Domain":"row.jimmychoo.com","Merchant":{"ID":36784,"Name":"Jimmy Choo","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":34859,"Domain":"intellasphere.com","Merchant":{"ID":36789,"Name":"IntellaSphere","MaxRate":{"Kind":"FLAT","Amount":"19.6","Currency":"USD"}}}
+{"ID":34837,"Domain":"trustandwill.com","Merchant":{"ID":36791,"Name":"Trust & Will","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":71272,"Domain":"drkellyann.com","Merchant":{"ID":36793,"Name":"Dr. Kellyann","MaxRate":{"Kind":"PERCENTAGE","Amount":"15"}}}
+{"ID":36376,"Domain":"drkellyannstore.com","Merchant":{"ID":36793,"Name":"Dr. Kellyann","MaxRate":{"Kind":"PERCENTAGE","Amount":"15"}}}
+{"ID":34835,"Domain":"troybilt.com","Merchant":{"ID":36795,"Name":"Troy Bilt","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":83075,"Domain":"troybilt.ca","Merchant":{"ID":36795,"Name":"Troy Bilt","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":36301,"Domain":"genmobile.com","Merchant":{"ID":36797,"Name":"Gen Mobile","MaxRate":{"Kind":"FLAT","Amount":"12.5","Currency":"USD"}}}
+{"ID":35341,"Domain":"siobeauty.com","Merchant":{"ID":36799,"Name":"SiO Beauty","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":36798,"Domain":"sarahapp.com","Merchant":{"ID":37083,"Name":"Sara Happ","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":37081,"Domain":"sandcloud.com","Merchant":{"ID":37085,"Name":"Sand Cloud","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":34841,"Domain":"solidandstriped.com","Merchant":{"ID":37086,"Name":"Solid and Striped","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":6266,"Domain":"stevespanglerscience.com","Merchant":{"ID":37087,"Name":"Spangler Science Club","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":34857,"Domain":"findmespot.com","Merchant":{"ID":37090,"Name":"SPOT","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":34819,"Domain":"brochuwalker.com","Merchant":{"ID":37094,"Name":"Brochu Walker","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":9625,"Domain":"maxcarloan.com","Merchant":{"ID":37095,"Name":"MaxCarLoan","MaxRate":{"Kind":"FLAT","Amount":"4.9","Currency":"USD"}}}
+{"ID":7662,"Domain":"bigfeetpjs.com","Merchant":{"ID":37098,"Name":"Big Feet Pajama Co","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":16726,"Domain":"ssww.com","Merchant":{"ID":37099,"Name":"S&S Worldwide","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5520703,"Domain":"abbapatio.com","Merchant":{"ID":37103,"Name":"Abba Patio","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":36303,"Domain":"hostinger.com","Merchant":{"ID":37104,"Name":"Hostinger","MaxRate":{"Kind":"PERCENTAGE","Amount":"20"}}}
+{"ID":36304,"Domain":"internationaltool.com","Merchant":{"ID":37105,"Name":"International Tool","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":34848,"Domain":"vipertecknives.com","Merchant":{"ID":37106,"Name":"Viper Tec Inc.","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":34851,"Domain":"arriveoutdoors.com","Merchant":{"ID":37107,"Name":"Arrive Outdoors","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":36340,"Domain":"getdyper.com","Merchant":{"ID":37108,"Name":"Get Dyper","MaxRate":{"Kind":"FLAT","Amount":"12.5","Currency":"USD"}}}
+{"ID":78370,"Domain":"dyper.com","Merchant":{"ID":37108,"Name":"Get Dyper","MaxRate":{"Kind":"FLAT","Amount":"12.5","Currency":"USD"}}}
+{"ID":35218,"Domain":"rugsusa.com","Merchant":{"ID":37116,"Name":"Rugs USA","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":5517474,"Domain":"chessbazaar.com","Merchant":{"ID":37118,"Name":"Chess Bazaar","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":37079,"Domain":"palateclub.com","Merchant":{"ID":37120,"Name":"Palate Club","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":35219,"Domain":"rugstudio.com","Merchant":{"ID":37122,"Name":"RugStudio.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.2"}}}
+{"ID":34850,"Domain":"anatomie.com","Merchant":{"ID":37124,"Name":"Anatomie","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":36350,"Domain":"sandandsky.com","Merchant":{"ID":37127,"Name":"Sand & Sky","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.8"}}}
+{"ID":35229,"Domain":"scoutalarm.com","Merchant":{"ID":37132,"Name":"Scout Alarm","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":34828,"Domain":"orgain.com","Merchant":{"ID":37137,"Name":"Orgain","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":74704,"Domain":"sklz.implus.com","Merchant":{"ID":37139,"Name":"SKLZ","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":35217,"Domain":"sklz.com","Merchant":{"ID":37139,"Name":"SKLZ","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":36712,"Domain":"airportparking.com","Merchant":{"ID":37142,"Name":"AirportParking.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":6271,"Domain":"vilros.com","Merchant":{"ID":37145,"Name":"Vilros","MaxRate":{"Kind":"FLAT","Amount":"0.005","Currency":"USD"}}}
+{"ID":35222,"Domain":"spinnaker-watches.com","Merchant":{"ID":37148,"Name":"Spinnaker Watches","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":74955,"Domain":"aboxtek.com","Merchant":{"ID":37149,"Name":"Substanbo","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":84969,"Domain":"iurek.com","Merchant":{"ID":37149,"Name":"Substanbo","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":122751,"Domain":"iurekwears.com","Merchant":{"ID":37149,"Name":"Substanbo","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":7917,"Domain":"goshippo.com","Merchant":{"ID":37153,"Name":"Shippo","MaxRate":{"Kind":"FLAT","Amount":"7.5","Currency":"USD"}}}
+{"ID":9021,"Domain":"tataharperskincare.com","Merchant":{"ID":37160,"Name":"Tata Harper","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":8469,"Domain":"modelco.com","Merchant":{"ID":37168,"Name":"ModelCo","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":9585,"Domain":"morelabs.com","Merchant":{"ID":37169,"Name":"MoreLabs","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":8833,"Domain":"morningrecoverydrink.com","Merchant":{"ID":37169,"Name":"MoreLabs","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":9440,"Domain":"getspeks.com","Merchant":{"ID":37172,"Name":"getspeks","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":35251,"Domain":"beautybox.allure.com","Merchant":{"ID":37184,"Name":"Allure Beauty Box","MaxRate":{"Kind":"FLAT","Amount":"2.5","Currency":"USD"}}}
+{"ID":35266,"Domain":"bikinibod.com","Merchant":{"ID":37412,"Name":"BikiniBOD","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":35256,"Domain":"apoterra.com","Merchant":{"ID":37414,"Name":"Apoterra Skincare","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":35257,"Domain":"apparelbyhomerun.com","Merchant":{"ID":37416,"Name":"Apparel By Home Run","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":35258,"Domain":"arestravel.com","Merchant":{"ID":37417,"Name":"aRes Travel","MaxRate":{"Kind":"FLAT","Amount":"3.5","Currency":"USD"}}}
+{"ID":111236,"Domain":"reservations.arestravel.com","Merchant":{"ID":37417,"Name":"aRes Travel","MaxRate":{"Kind":"FLAT","Amount":"3.5","Currency":"USD"}}}
+{"ID":35262,"Domain":"baseblu.com","Merchant":{"ID":37422,"Name":"Base Blu","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":35263,"Domain":"vousvitamin.com","Merchant":{"ID":37424,"Name":"Vous Vitamin","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":35265,"Domain":"beyondpolish.com","Merchant":{"ID":37427,"Name":"Beyond Polish","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":35271,"Domain":"bizchair.com","Merchant":{"ID":37428,"Name":"Bizchair","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":35270,"Domain":"biotopic.com","Merchant":{"ID":37429,"Name":"BioTopic","MaxRate":{"Kind":"PERCENTAGE","Amount":"7"}}}
+{"ID":31634,"Domain":"blenderseyewear.com","Merchant":{"ID":37431,"Name":"Blenders Eyewear","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":35275,"Domain":"bluesky.com","Merchant":{"ID":37436,"Name":"Blue Sky","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":35531,"Domain":"discountfilterstore.com","Merchant":{"ID":37438,"Name":"DiscountFilterStore.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.2"}}}
+{"ID":3855044,"Domain":"bulletproof.com","Merchant":{"ID":37443,"Name":"Bulletproof","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":93790,"Domain":"shop.bulletproof.com","Merchant":{"ID":37443,"Name":"Bulletproof","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":5518405,"Domain":"cledepeaubeaute.com","Merchant":{"ID":37444,"Name":"Cle De Peau Beaute","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":35287,"Domain":"countabout.com","Merchant":{"ID":37449,"Name":"CountAbout","MaxRate":{"Kind":"PERCENTAGE","Amount":"25"}}}
+{"ID":35286,"Domain":"coppercowcoffee.com","Merchant":{"ID":37450,"Name":"Copper Cow Coffee","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5518271,"Domain":"debragga.com","Merchant":{"ID":37453,"Name":"DeBragga","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5513984,"Domain":"eaglecreek.com","Merchant":{"ID":37454,"Name":"Eagle Creek","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":35293,"Domain":"emcosmetics.com","Merchant":{"ID":37456,"Name":"EM Cosmetics","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":35298,"Domain":"faxitfast.com","Merchant":{"ID":37461,"Name":"Fax It Fast","MaxRate":{"Kind":"FLAT","Amount":"6","Currency":"USD"}}}
+{"ID":126653,"Domain":"falconeri.com","Merchant":{"ID":37462,"Name":"Falconeri","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":35297,"Domain":"us.falconeri.com","Merchant":{"ID":37462,"Name":"Falconeri","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":35301,"Domain":"girottishoes.com","Merchant":{"ID":37464,"Name":"Girotti Shoes US","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":35538,"Domain":"1800contacts.com","Merchant":{"ID":37465,"Name":"1-800 CONTACTS","MaxRate":{"Kind":"PERCENTAGE","Amount":"7"}}}
+{"ID":35302,"Domain":"goumikids.com","Merchant":{"ID":37467,"Name":"Goumi Kids","MaxRate":{"Kind":"PERCENTAGE","Amount":"8"}}}
+{"ID":85201,"Domain":"apupabove.com","Merchant":{"ID":37468,"Name":"Grocery Pup","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":35303,"Domain":"grocerypup.com","Merchant":{"ID":37468,"Name":"Grocery Pup","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":35539,"Domain":"empe-usa.com","Merchant":{"ID":37470,"Name":"EMPE USA","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":35310,"Domain":"infinitecbd.com","Merchant":{"ID":37473,"Name":"Infinite CBD","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":35316,"Domain":"jujube.com","Merchant":{"ID":37478,"Name":"JuJuBe","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.2"}}}
+{"ID":69828,"Domain":"jdsports.fi","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":107293,"Domain":"jdsports.ie","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.4"}}}
+{"ID":95101,"Domain":"jdsports.fr","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.8"}}}
+{"ID":35313,"Domain":"jdsports.com","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":110493,"Domain":"jdsports.pt","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.8"}}}
+{"ID":107294,"Domain":"jdsports.at","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":69827,"Domain":"jdsports.dk","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":113501,"Domain":"jdsports.it","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.8"}}}
+{"ID":114691,"Domain":"jdsports.se","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.8"}}}
+{"ID":5497802,"Domain":"jd-sports.com.au","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.8"}}}
+{"ID":94821,"Domain":"jdsports.co.uk","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":5497803,"Domain":"jdsports.my","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":3921757,"Domain":"jdsports.es","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.8"}}}
+{"ID":45384,"Domain":"jdsports.nl","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":125357,"Domain":"jdsports.ca","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":109570,"Domain":"global.jdsports.com","Merchant":{"ID":37479,"Name":"JD Sports","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":35541,"Domain":"apploi.com","Merchant":{"ID":37482,"Name":"Apploi","MaxRate":{"Kind":"FLAT","Amount":"0.4","Currency":"USD"}}}
+{"ID":35314,"Domain":"jenniferadams.com","Merchant":{"ID":37483,"Name":"Jennifer Adams","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":35318,"Domain":"ivisa.com","Merchant":{"ID":37484,"Name":"iVisa","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":35320,"Domain":"livelarq.com","Merchant":{"ID":37494,"Name":"LARQ","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":35321,"Domain":"lastpass.com","Merchant":{"ID":37495,"Name":"LastPass","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":35327,"Domain":"maidenform.com","Merchant":{"ID":37503,"Name":"Maidenform","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":9547,"Domain":"athleticpropulsionlabs.com","Merchant":{"ID":37505,"Name":"Athletic Propulsion Labs","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":35330,"Domain":"shop.mayvenn.com","Merchant":{"ID":37508,"Name":"Mayvenn","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":35335,"Domain":"miraclesuit.com","Merchant":{"ID":37513,"Name":"Miraclesuit","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.8"}}}
+{"ID":35334,"Domain":"mirasafety.com","Merchant":{"ID":37514,"Name":"MIRA Safety","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":35337,"Domain":"morningstar.com","Merchant":{"ID":37515,"Name":"Morningstar Inc.","MaxRate":{"Kind":"FLAT","Amount":"25","Currency":"USD"}}}
+{"ID":127587,"Domain":"go.morningstar.com","Merchant":{"ID":37515,"Name":"Morningstar Inc.","MaxRate":{"Kind":"FLAT","Amount":"25","Currency":"USD"}}}
+{"ID":127600,"Domain":"investor.morningstar.com","Merchant":{"ID":37515,"Name":"Morningstar Inc.","MaxRate":{"Kind":"FLAT","Amount":"25","Currency":"USD"}}}
+{"ID":9587,"Domain":"ignatius.com","Merchant":{"ID":37518,"Name":"Ignatius Press","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":122581,"Domain":"try.fender.com","Merchant":{"ID":37521,"Name":"Fender Play","MaxRate":{"Kind":"FLAT","Amount":"5","Currency":"USD"}}}
+{"ID":35545,"Domain":"fender.com","Merchant":{"ID":37521,"Name":"Fender Play","MaxRate":{"Kind":"FLAT","Amount":"6","Currency":"USD"}}}
+{"ID":35344,"Domain":"nyxcosmetics.com","Merchant":{"ID":37526,"Name":"NYX Professional Makeup","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":75236,"Domain":"nyxcosmetics.ca","Merchant":{"ID":37526,"Name":"NYX Professional Makeup","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":35527,"Domain":"neatorobotics.com","Merchant":{"ID":37529,"Name":"Neato Robotics","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":37533,"Domain":"cdkeys.com","Merchant":{"ID":37825,"Name":"CDKeys","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":37534,"Domain":"nourage.com","Merchant":{"ID":37835,"Name":"Nourage","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":34894,"Domain":"auraglow.com","Merchant":{"ID":37848,"Name":"AuraGlow","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":37973,"Domain":"lifepointspanel.com","Merchant":{"ID":37978,"Name":"LifePoints","MaxRate":{"Kind":"FLAT","Amount":"2.25","Currency":"USD"}}}
+{"ID":3919967,"Domain":"uk.coach.com","Merchant":{"ID":37980,"Name":"Coach","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":37982,"Domain":"coach.com","Merchant":{"ID":37980,"Name":"Coach","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.25"}}}
+{"ID":127022,"Domain":"mx.coach.com","Merchant":{"ID":37980,"Name":"Coach","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.23"}}}
+{"ID":116281,"Domain":"ca.coach.com","Merchant":{"ID":37980,"Name":"Coach","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.25"}}}
+{"ID":5512418,"Domain":"de.coach.com","Merchant":{"ID":37980,"Name":"Coach","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":3919974,"Domain":"fr.coach.com","Merchant":{"ID":37980,"Name":"Coach","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":127644,"Domain":"kayak.co.uk","Merchant":{"ID":39239,"Name":"Kayak","MaxRate":{"Kind":"FLAT","Amount":"0.165","Currency":"GBP"}}}
+{"ID":114191,"Domain":"ca.kayak.com","Merchant":{"ID":39239,"Name":"Kayak","MaxRate":{"Kind":"FLAT","Amount":"0.315","Currency":"USD"}}}
+{"ID":38991,"Domain":"kayak.com","Merchant":{"ID":39239,"Name":"Kayak","MaxRate":{"Kind":"FLAT","Amount":"0.52","Currency":"USD"}}}
+{"ID":7625,"Domain":"squareoffnow.com","Merchant":{"ID":39446,"Name":"Square Off","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":39443,"Domain":"myautoloan.com","Merchant":{"ID":39447,"Name":"myAutoloan","MaxRate":{"Kind":"FLAT","Amount":"2.5","Currency":"USD"}}}
+{"ID":34879,"Domain":"lenscrafters.com","Merchant":{"ID":39564,"Name":"LensCrafters","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":35223,"Domain":"staud.clothing","Merchant":{"ID":39566,"Name":"STAUD","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.4"}}}
+{"ID":4768157,"Domain":"camper.com","Merchant":{"ID":39567,"Name":"Camper","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":34907,"Domain":"denbyusa.com","Merchant":{"ID":39569,"Name":"Denby","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":4768129,"Domain":"denbypottery.com","Merchant":{"ID":39569,"Name":"Denby","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":5520353,"Domain":"hungryroot.com","Merchant":{"ID":39868,"Name":"Hungryroot","MaxRate":{"Kind":"FLAT","Amount":"5","Currency":"USD"}}}
+{"ID":40155,"Domain":"kokoon.io","Merchant":{"ID":40156,"Name":"Kokoon Technology","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":39869,"Domain":"carbon38.com","Merchant":{"ID":40158,"Name":"Carbon38","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":5798,"Domain":"shipito.com","Merchant":{"ID":40334,"Name":"Shipito","MaxRate":{"Kind":"FLAT","Amount":"0.5","Currency":"USD"}}}
+{"ID":40333,"Domain":"selections.com","Merchant":{"ID":40335,"Name":"Selections","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":7368,"Domain":"jjill.com","Merchant":{"ID":40549,"Name":"J. Jill","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":43005,"Domain":"rawlings.com","Merchant":{"ID":43372,"Name":"Rawlings","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":6083,"Domain":"theboysstore.com","Merchant":{"ID":43373,"Name":"The Boy's Store","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":43951,"Domain":"adidascases.com","Merchant":{"ID":44615,"Name":"Adidas Cases","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":5795,"Domain":"bokksu.com","Merchant":{"ID":44616,"Name":"Bokksu","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":43376,"Domain":"ernolaszlo.com","Merchant":{"ID":44618,"Name":"Erno Laszlo","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":3922619,"Domain":"momondo.com","Merchant":{"ID":49708,"Name":"Momondo","MaxRate":{"Kind":"FLAT","Amount":"0.4125","Currency":"USD"}}}
+{"ID":49715,"Domain":"justthrivehealth.com","Merchant":{"ID":49716,"Name":"Just Thrive","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":119873,"Domain":"socialcbd.com","Merchant":{"ID":50040,"Name":"Social CBD","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":50042,"Domain":"huntakiller.com","Merchant":{"ID":50043,"Name":"HuntAKiller","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":5505182,"Domain":"barielle.com","Merchant":{"ID":50843,"Name":"Barielle","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":50044,"Domain":"burstoralcare.com","Merchant":{"ID":50844,"Name":"BURST Oral Care","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":51638,"Domain":"outdoorvoices.com","Merchant":{"ID":51859,"Name":"Outdoor Voices","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":51430,"Domain":"makespace.com","Merchant":{"ID":51861,"Name":"MakeSpace","MaxRate":{"Kind":"FLAT","Amount":"2.5","Currency":"USD"}}}
+{"ID":51432,"Domain":"n8essentials.com","Merchant":{"ID":51863,"Name":"N8 Essentials","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":51437,"Domain":"pandorasboxinc.com","Merchant":{"ID":51870,"Name":"Pandora's Box","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":76566,"Domain":"aphrodites.com","Merchant":{"ID":51870,"Name":"Pandora's Box","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":51438,"Domain":"tuftandneedle.com","Merchant":{"ID":51871,"Name":"Tuft & Needle","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":51442,"Domain":"regrowz.com","Merchant":{"ID":51875,"Name":"Regrowz | Hair Regrowth Solution","MaxRate":{"Kind":"PERCENTAGE","Amount":"15"}}}
+{"ID":51727,"Domain":"puracy.com","Merchant":{"ID":51880,"Name":"Puracy","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":55863,"Domain":"americanfighter.com","Merchant":{"ID":57039,"Name":"American Fighter","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":55864,"Domain":"orlybeauty.com","Merchant":{"ID":57040,"Name":"ORLY","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":55867,"Domain":"us.evapolar.com","Merchant":{"ID":57041,"Name":"Evapolar","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":95263,"Domain":"evapolar.com","Merchant":{"ID":57041,"Name":"Evapolar","MaxRate":{"Kind":"PERCENTAGE","Amount":"8"}}}
+{"ID":55868,"Domain":"us.feelunique.com","Merchant":{"ID":57042,"Name":"Feelunique","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.5"}}}
+{"ID":102977,"Domain":"fr.feelunique.com","Merchant":{"ID":57042,"Name":"Feelunique","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.5"}}}
+{"ID":115383,"Domain":"mena.feelunique.com","Merchant":{"ID":57042,"Name":"Feelunique","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.615"}}}
+{"ID":3920823,"Domain":"feelunique.com","Merchant":{"ID":57042,"Name":"Feelunique","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.8"}}}
+{"ID":3920529,"Domain":"etihad.com","Merchant":{"ID":57045,"Name":"Etihad Airways","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":52571,"Domain":"primitiveskate.com","Merchant":{"ID":57047,"Name":"Primitive Skate","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":56732,"Domain":"brandalley.co.uk","Merchant":{"ID":57052,"Name":"BrandAlley","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":84752,"Domain":"brandalley.fr","Merchant":{"ID":57052,"Name":"BrandAlley","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":56733,"Domain":"boomf.com","Merchant":{"ID":57053,"Name":"Boomf","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":56736,"Domain":"hair.com","Merchant":{"ID":57055,"Name":"Hair.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":56738,"Domain":"makeuperaser.com","Merchant":{"ID":57056,"Name":"Makeup Eraser","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":55847,"Domain":"farmrio.com","Merchant":{"ID":57057,"Name":"FarmRio","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.5"}}}
+{"ID":55849,"Domain":"getfittrack.com","Merchant":{"ID":57059,"Name":"FitTrack","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":78054,"Domain":"hwxcbd.com","Merchant":{"ID":57062,"Name":"HealthworxCBD","MaxRate":{"Kind":"PERCENTAGE","Amount":"20"}}}
+{"ID":55850,"Domain":"healthworxcbd.com","Merchant":{"ID":57062,"Name":"HealthworxCBD","MaxRate":{"Kind":"PERCENTAGE","Amount":"20"}}}
+{"ID":55852,"Domain":"dealparade.com","Merchant":{"ID":57064,"Name":"Deal Parade","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.2"}}}
+{"ID":52555,"Domain":"protonmail.com","Merchant":{"ID":57067,"Name":"ProtonMail + ProtonVPN","MaxRate":{"Kind":"PERCENTAGE","Amount":"50"}}}
+{"ID":126367,"Domain":"proton.me","Merchant":{"ID":57067,"Name":"ProtonMail + ProtonVPN","MaxRate":{"Kind":"PERCENTAGE","Amount":"50"}}}
+{"ID":52557,"Domain":"truhair.com","Merchant":{"ID":57069,"Name":"TRUHAIR","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":52562,"Domain":"bedrosians.com","Merchant":{"ID":57074,"Name":"Bedrosians Tile & Stone","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":52568,"Domain":"smartyhadaparty.com","Merchant":{"ID":57080,"Name":"Smarty Had A Party","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":55846,"Domain":"stylevana.com","Merchant":{"ID":57081,"Name":"Stylevana","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":56805,"Domain":"ekster.com","Merchant":{"ID":57082,"Name":"Ekster","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":57034,"Domain":"ediblearrangements.com","Merchant":{"ID":57086,"Name":"Edible Arrangements","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.2"}}}
+{"ID":78324,"Domain":"optibacprobiotics.com","Merchant":{"ID":57474,"Name":"OptiBac Probiotics","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":57094,"Domain":"optibacprobiotics.co.uk","Merchant":{"ID":57474,"Name":"OptiBac Probiotics","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":57098,"Domain":"flowerbx.com","Merchant":{"ID":57476,"Name":"FLOWERBX","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":57099,"Domain":"gigipip.com","Merchant":{"ID":57478,"Name":"Gigi Pip","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":57471,"Domain":"positivegrid.com","Merchant":{"ID":57479,"Name":"Positive Grid","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":35490,"Domain":"magee1866.com","Merchant":{"ID":57483,"Name":"Magee 1866","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":57486,"Domain":"udacity.com","Merchant":{"ID":57517,"Name":"Udacity","MaxRate":{"Kind":"FLAT","Amount":"12.5","Currency":"USD"}}}
+{"ID":45738,"Domain":"maisondefashion.com","Merchant":{"ID":57518,"Name":"Maison De Fashion","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":35479,"Domain":"adamsacademy.com","Merchant":{"ID":57526,"Name":"John Academy","MaxRate":{"Kind":"PERCENTAGE","Amount":"16"}}}
+{"ID":75292,"Domain":"johnacademy.co.uk","Merchant":{"ID":57526,"Name":"John Academy","MaxRate":{"Kind":"PERCENTAGE","Amount":"16"}}}
+{"ID":57498,"Domain":"eurodns.com","Merchant":{"ID":57527,"Name":"EuroDNS","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":57509,"Domain":"leabags.com","Merchant":{"ID":57532,"Name":"Leabags","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":57494,"Domain":"juui.de","Merchant":{"ID":57533,"Name":"Juui","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":4348554,"Domain":"stellarinfo.com","Merchant":{"ID":57534,"Name":"Stellar","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":57499,"Domain":"benetton.com","Merchant":{"ID":57535,"Name":"Benetton","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":84354,"Domain":"es.benetton.com","Merchant":{"ID":57535,"Name":"Benetton","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":74394,"Domain":"it.benetton.com","Merchant":{"ID":57535,"Name":"Benetton","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":84355,"Domain":"fr.benetton.com","Merchant":{"ID":57535,"Name":"Benetton","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":75846,"Domain":"gb.benetton.com","Merchant":{"ID":57535,"Name":"Benetton","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":84353,"Domain":"de.benetton.com","Merchant":{"ID":57535,"Name":"Benetton","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":120281,"Domain":"instasmile.com","Merchant":{"ID":57536,"Name":"Instasmile","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":76925,"Domain":"superdry.de","Merchant":{"ID":57538,"Name":"Superdry","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":3924266,"Domain":"superdry.com","Merchant":{"ID":57538,"Name":"Superdry","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":57539,"Domain":"fite.tv","Merchant":{"ID":57563,"Name":"FITE","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":35469,"Domain":"getgrover.com","Merchant":{"ID":57565,"Name":"Grover","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":95199,"Domain":"grover.com","Merchant":{"ID":57565,"Name":"Grover","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.8"}}}
+{"ID":57562,"Domain":"busbud.com","Merchant":{"ID":57566,"Name":"Busbud","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":57501,"Domain":"thedoublef.com","Merchant":{"ID":57567,"Name":"The Double F","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":57503,"Domain":"made-in-china.com","Merchant":{"ID":57569,"Name":"Made-In-China.com","MaxRate":{"Kind":"FLAT","Amount":"2.5","Currency":"USD"}}}
+{"ID":57505,"Domain":"eibabo.com","Merchant":{"ID":57571,"Name":"eibabo.com global","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":57506,"Domain":"bibloo.at","Merchant":{"ID":57573,"Name":"BIBLOO","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":3919524,"Domain":"bibloo.hr","Merchant":{"ID":57573,"Name":"BIBLOO","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":3919511,"Domain":"bibloo.nl","Merchant":{"ID":57573,"Name":"BIBLOO","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":3919508,"Domain":"bibloo.bg","Merchant":{"ID":57573,"Name":"BIBLOO","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":58659,"Domain":"bibloo.cz","Merchant":{"ID":57573,"Name":"BIBLOO","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":3919523,"Domain":"bibloo.pl","Merchant":{"ID":57573,"Name":"BIBLOO","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":75416,"Domain":"bibloo.ro","Merchant":{"ID":57573,"Name":"BIBLOO","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":57507,"Domain":"bibloo.com","Merchant":{"ID":57573,"Name":"BIBLOO","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":3919512,"Domain":"bibloo.si","Merchant":{"ID":57573,"Name":"BIBLOO","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":3919514,"Domain":"bibloo.hu","Merchant":{"ID":57573,"Name":"BIBLOO","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":57510,"Domain":"studentbeans.com","Merchant":{"ID":57584,"Name":"Student Beans","MaxRate":{"Kind":"PERCENTAGE","Amount":"20"}}}
+{"ID":57513,"Domain":"visual-click.com","Merchant":{"ID":57591,"Name":"VISUAL CLICK","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":3855133,"Domain":"organicbabyfood24.de","Merchant":{"ID":57593,"Name":"Organic Baby Food GmbH","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":34823,"Domain":"tods.com","Merchant":{"ID":57595,"Name":"Tod's","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.8"}}}
+{"ID":57531,"Domain":"metalunlimited.com","Merchant":{"ID":57598,"Name":"Metal Unlimited","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":45607,"Domain":"brasnthings.com","Merchant":{"ID":57599,"Name":"BRAS N THINGS","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.7"}}}
+{"ID":69954,"Domain":"zooplus.pt","Merchant":{"ID":57600,"Name":"Zooplus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":69266,"Domain":"zooplus.es","Merchant":{"ID":57600,"Name":"Zooplus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":121787,"Domain":"zooplus.co.uk","Merchant":{"ID":57600,"Name":"Zooplus","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.4"}}}
+{"ID":129242,"Domain":"zooplus.no","Merchant":{"ID":57600,"Name":"Zooplus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":69280,"Domain":"zooplus.hu","Merchant":{"ID":57600,"Name":"Zooplus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":34877,"Domain":"zooplus.pl","Merchant":{"ID":57600,"Name":"Zooplus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":71880,"Domain":"zooplus.ro","Merchant":{"ID":57600,"Name":"Zooplus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":71282,"Domain":"zooplus.be","Merchant":{"ID":57600,"Name":"Zooplus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":71677,"Domain":"zooplus.it","Merchant":{"ID":57600,"Name":"Zooplus","MaxRate":{"Kind":"PERCENTAGE","Amount":"5.51"}}}
+{"ID":70534,"Domain":"zooplus.ch","Merchant":{"ID":57600,"Name":"Zooplus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":113500,"Domain":"zooplus.se","Merchant":{"ID":57600,"Name":"Zooplus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":57542,"Domain":"zooplus.fr","Merchant":{"ID":57600,"Name":"Zooplus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":45688,"Domain":"beautypie.com","Merchant":{"ID":57602,"Name":"Beauty Pie","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":57557,"Domain":"nvgallery.com","Merchant":{"ID":57603,"Name":"NV Gallery","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":45339,"Domain":"fr.alexandredeparis-store.com","Merchant":{"ID":57609,"Name":"Alexandre De Paris","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":67000,"Domain":"us.alexandredeparis-store.com","Merchant":{"ID":57609,"Name":"Alexandre De Paris","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":57546,"Domain":"igloohome.fr","Merchant":{"ID":57610,"Name":"IglooHome","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":95449,"Domain":"memorypur.fr","Merchant":{"ID":57996,"Name":"MEMORYPUR FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":57550,"Domain":"memorypur.com","Merchant":{"ID":57996,"Name":"MEMORYPUR FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":57553,"Domain":"mypostcard.com","Merchant":{"ID":58000,"Name":"MyPostcard","MaxRate":{"Kind":"FLAT","Amount":"0.8","Currency":"EUR"}}}
+{"ID":75798,"Domain":"rdr.wargaming.net","Merchant":{"ID":58003,"Name":"World of Tanks","MaxRate":{"Kind":"FLAT","Amount":"2","Currency":"AUD"}}}
+{"ID":95298,"Domain":"worldoftanks.com","Merchant":{"ID":58003,"Name":"World of Tanks","MaxRate":{"Kind":"FLAT","Amount":"2","Currency":"AUD"}}}
+{"ID":56802,"Domain":"hogan.com","Merchant":{"ID":58006,"Name":"Hogan","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":57612,"Domain":"opinioninn.com","Merchant":{"ID":58009,"Name":"OpinionInn","MaxRate":{"Kind":"FLAT","Amount":"2.5","Currency":"USD"}}}
+{"ID":45371,"Domain":"glamuse.com","Merchant":{"ID":58011,"Name":"Glamuse FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":3922904,"Domain":"nisbets.com.au","Merchant":{"ID":58022,"Name":"Nisbets","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":45824,"Domain":"nisbets.de","Merchant":{"ID":58022,"Name":"Nisbets","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":57989,"Domain":"nisbets.fr","Merchant":{"ID":58022,"Name":"Nisbets","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":58433,"Domain":"gramshoes.com","Merchant":{"ID":58435,"Name":"Gram Shoes","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":3922499,"Domain":"magazine.store","Merchant":{"ID":58440,"Name":"Magazine.co.uk","MaxRate":{"Kind":"PERCENTAGE","Amount":"17.5"}}}
+{"ID":5497860,"Domain":"magazine.co.uk","Merchant":{"ID":58440,"Name":"Magazine.co.uk","MaxRate":{"Kind":"FLAT","Amount":"2","Currency":"GBP"}}}
+{"ID":58128,"Domain":"bodyandfit.com","Merchant":{"ID":58444,"Name":"Body & Fit FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":58131,"Domain":"thelondonperfumecompany.com","Merchant":{"ID":58448,"Name":"London Perfume Co.","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":3920406,"Domain":"ebookers.ie","Merchant":{"ID":58450,"Name":"ebookers","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":3920407,"Domain":"ebookers.com","Merchant":{"ID":58450,"Name":"ebookers","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":58134,"Domain":"malindo.fr","Merchant":{"ID":58451,"Name":"Malindo FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":58135,"Domain":"martinelli.es","Merchant":{"ID":58452,"Name":"MARTINELLI","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":58137,"Domain":"summary.com","Merchant":{"ID":58455,"Name":"Book Summaries","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":58138,"Domain":"padelnuestro.com","Merchant":{"ID":58456,"Name":"PadelNuestro EU","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":58142,"Domain":"driveboo.fr","Merchant":{"ID":58463,"Name":"Driveboo","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":58143,"Domain":"jacques-loup.com","Merchant":{"ID":58464,"Name":"Jacques Loup FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":58144,"Domain":"threadsmenswear.com","Merchant":{"ID":58465,"Name":"Threads Menswear","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":106725,"Domain":"maisonthreads.com","Merchant":{"ID":58465,"Name":"Threads Menswear","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":58147,"Domain":"flashlightdistributor.com","Merchant":{"ID":58486,"Name":"Flash Light Distributor","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":58150,"Domain":"getgrinds.com","Merchant":{"ID":58489,"Name":"Grinds","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":58434,"Domain":"shop-pharmacie.fr","Merchant":{"ID":58495,"Name":"Shop Pharmacie FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":58498,"Domain":"vyprvpn.com","Merchant":{"ID":58675,"Name":"VyprVPN","MaxRate":{"Kind":"FLAT","Amount":"15","Currency":"USD"}}}
+{"ID":58470,"Domain":"jackrogersusa.com","Merchant":{"ID":58677,"Name":"Jack Rogers","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":58482,"Domain":"wearejetson.com","Merchant":{"ID":58680,"Name":"Jetson","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":58493,"Domain":"spotahome.com","Merchant":{"ID":58682,"Name":"Spotahome","MaxRate":{"Kind":"PERCENTAGE","Amount":"8"}}}
+{"ID":58474,"Domain":"montagne-vacances.com","Merchant":{"ID":58686,"Name":"Montagne Vacances FR","MaxRate":{"Kind":"FLAT","Amount":"17.5","Currency":"EUR"}}}
+{"ID":58477,"Domain":"lepetitolivier.fr","Merchant":{"ID":58689,"Name":"Le Petit Olivier FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":58478,"Domain":"mollybracken.com","Merchant":{"ID":58690,"Name":"Molly Bracken FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":45434,"Domain":"just4men.de","Merchant":{"ID":58691,"Name":"just4men DE","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":58479,"Domain":"morinfrance.com","Merchant":{"ID":58692,"Name":"Morin FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":58480,"Domain":"snipes.fr","Merchant":{"ID":58693,"Name":"Snipes FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":58481,"Domain":"flashlightdealer.com","Merchant":{"ID":58694,"Name":"Flashlight Dealer","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":58501,"Domain":"davidstea.com","Merchant":{"ID":58696,"Name":"DAVIDsTEA","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.25"}}}
+{"ID":58672,"Domain":"hydroviv.com","Merchant":{"ID":58697,"Name":"Hydroviv","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":58660,"Domain":"dosfarma.com","Merchant":{"ID":58701,"Name":"DOSFARMA","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":58661,"Domain":"planetahuerto.es","Merchant":{"ID":58703,"Name":"Planeta Huerto","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":58663,"Domain":"babyshop.com","Merchant":{"ID":58718,"Name":"Babyshop","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":3919350,"Domain":"babyshop.de","Merchant":{"ID":58718,"Name":"Babyshop","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":58666,"Domain":"danielloboutique.it","Merchant":{"ID":58721,"Name":"D'ANIELLO BOUTIQUE","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5503112,"Domain":"us.sandro-paris.com","Merchant":{"ID":58726,"Name":"Sandro","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":45903,"Domain":"fr.sandro-paris.com","Merchant":{"ID":58726,"Name":"Sandro","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":58670,"Domain":"citrus.com","Merchant":{"ID":58727,"Name":"Citrus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":58671,"Domain":"tampons-bureau.fr","Merchant":{"ID":58728,"Name":"tampons-bureau.fr","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":58673,"Domain":"kofax.com","Merchant":{"ID":58730,"Name":"Kofax","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":58674,"Domain":"replacements.com","Merchant":{"ID":58731,"Name":"Replacements","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":58724,"Domain":"trendtimes.com","Merchant":{"ID":58917,"Name":"Trend Times Toys","MaxRate":{"Kind":"FLAT","Amount":"5","Currency":"USD"}}}
+{"ID":120893,"Domain":"magiccars.com","Merchant":{"ID":58917,"Name":"Trend Times Toys","MaxRate":{"Kind":"FLAT","Amount":"5","Currency":"USD"}}}
+{"ID":58733,"Domain":"piecesdiscount24.fr","Merchant":{"ID":58918,"Name":"Piecesdiscount24 FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":58712,"Domain":"beautycoiffure.com","Merchant":{"ID":58924,"Name":"Beauty Coiffure FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":58710,"Domain":"interouge.com","Merchant":{"ID":58928,"Name":"INTEROUGE FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":58711,"Domain":"parfumdreams.com","Merchant":{"ID":58929,"Name":"Parfumdreams Global","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":7583,"Domain":"furla.com","Merchant":{"ID":58935,"Name":"Furla","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":58908,"Domain":"streetpadel.com","Merchant":{"ID":58936,"Name":"StreetPadel- NewPadel","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":58909,"Domain":"cartouche-du-toner.com","Merchant":{"ID":59157,"Name":"Cartouche du Toner FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":102329,"Domain":"petitemendigote.com","Merchant":{"ID":59158,"Name":"Petite Mendigote FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":58910,"Domain":"petitemendigote.fr","Merchant":{"ID":59158,"Name":"Petite Mendigote FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":59054,"Domain":"alpiniste.fr","Merchant":{"ID":59164,"Name":"Alpiniste FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":59147,"Domain":"cecil-mode.fr","Merchant":{"ID":59168,"Name":"Cecil Mode FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":59151,"Domain":"scalperscompany.com","Merchant":{"ID":59170,"Name":"SCALPERS","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":59150,"Domain":"enviedefraise.fr","Merchant":{"ID":59172,"Name":"Envie de fraise FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":59154,"Domain":"armorlux.com","Merchant":{"ID":59191,"Name":"ARMOR LUX FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":59155,"Domain":"senkys.com","Merchant":{"ID":59192,"Name":"Senkys FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":60931,"Domain":"vitality4life.co.uk","Merchant":{"ID":59193,"Name":"Vitality4Life","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.25"}}}
+{"ID":128317,"Domain":"vitality4life.com","Merchant":{"ID":59193,"Name":"Vitality4Life","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.25"}}}
+{"ID":59175,"Domain":"vitality4life.fr","Merchant":{"ID":59193,"Name":"Vitality4Life","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.25"}}}
+{"ID":3925025,"Domain":"vitality4life.com.au","Merchant":{"ID":59193,"Name":"Vitality4Life","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.25"}}}
+{"ID":69805,"Domain":"vitality4life.de","Merchant":{"ID":59193,"Name":"Vitality4Life","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.25"}}}
+{"ID":59177,"Domain":"chronoshop2shop.fr","Merchant":{"ID":59194,"Name":"Chronopost FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":77256,"Domain":"chronopost.fr","Merchant":{"ID":59194,"Name":"Chronopost FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":59182,"Domain":"carplug.com","Merchant":{"ID":59201,"Name":"Carplug FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.25"}}}
+{"ID":3924118,"Domain":"spaseekers.com","Merchant":{"ID":59205,"Name":"Spa Seekers","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":59357,"Domain":"siageo-led.com","Merchant":{"ID":59540,"Name":"Siageo Led FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":59364,"Domain":"macway.com","Merchant":{"ID":59547,"Name":"Macway FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":59366,"Domain":"systemeu.solution.weborama.fr","Merchant":{"ID":59550,"Name":"U location FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":122692,"Domain":"ulocation.com","Merchant":{"ID":59550,"Name":"U location FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":59368,"Domain":"labelsfashion.com","Merchant":{"ID":59551,"Name":"Labels Fashion","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":45881,"Domain":"racechip.co.uk","Merchant":{"ID":59552,"Name":"RaceChip","MaxRate":{"Kind":"PERCENTAGE","Amount":"5.2"}}}
+{"ID":59534,"Domain":"racechip.fr","Merchant":{"ID":59552,"Name":"RaceChip","MaxRate":{"Kind":"PERCENTAGE","Amount":"6.5"}}}
+{"ID":59535,"Domain":"character-online.com","Merchant":{"ID":59553,"Name":"Character-Online","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":6082,"Domain":"discountstripper.com","Merchant":{"ID":60510,"Name":"Discount Stripper","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":45613,"Domain":"figurines-goodies.com","Merchant":{"ID":60514,"Name":"Figurines Goodies","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":35556,"Domain":"pe-nation.com","Merchant":{"ID":60520,"Name":"P.E Nation","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":95204,"Domain":"us.pe-nation.com","Merchant":{"ID":60520,"Name":"P.E Nation","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":5045526,"Domain":"biggreensmile.com","Merchant":{"ID":60523,"Name":"Big Green Smile","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":3919492,"Domain":"biggreensmile.de","Merchant":{"ID":60523,"Name":"Big Green Smile","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":3920647,"Domain":"biggreensmile.nl","Merchant":{"ID":60523,"Name":"Big Green Smile","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":3919482,"Domain":"biggreensmile.fr","Merchant":{"ID":60523,"Name":"Big Green Smile","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5498144,"Domain":"victoriamilan.fr","Merchant":{"ID":60524,"Name":"Victoria Milan","MaxRate":{"Kind":"FLAT","Amount":"32.5","Currency":"EUR"}}}
+{"ID":113496,"Domain":"victoriamilan.se","Merchant":{"ID":60524,"Name":"Victoria Milan","MaxRate":{"Kind":"FLAT","Amount":"550","Currency":"SEK"}}}
+{"ID":5498143,"Domain":"victoriamilan.es","Merchant":{"ID":60524,"Name":"Victoria Milan","MaxRate":{"Kind":"FLAT","Amount":"25","Currency":"EUR"}}}
+{"ID":60224,"Domain":"uk.accessorize.com","Merchant":{"ID":60527,"Name":"Accessorize","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":95302,"Domain":"accessorize.com","Merchant":{"ID":60527,"Name":"Accessorize","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.8"}}}
+{"ID":60221,"Domain":"optical-center.eu","Merchant":{"ID":60534,"Name":"Optical Center FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":60009,"Domain":"ski-planet.com","Merchant":{"ID":60536,"Name":"Ski-planet FR","MaxRate":{"Kind":"FLAT","Amount":"17.5","Currency":"EUR"}}}
+{"ID":60552,"Domain":"traveltimeinsurance.co.uk","Merchant":{"ID":60736,"Name":"TravelTime Travel Insurance","MaxRate":{"Kind":"PERCENTAGE","Amount":"8.75"}}}
+{"ID":60551,"Domain":"americas.rsdelivers.com","Merchant":{"ID":60737,"Name":"RS Components US","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":60541,"Domain":"inkifi.com","Merchant":{"ID":60740,"Name":"Inkifi","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":69508,"Domain":"tirendo.at","Merchant":{"ID":60741,"Name":"Tirendo","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":46006,"Domain":"tirendo.pl","Merchant":{"ID":60741,"Name":"Tirendo","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":69502,"Domain":"tirendo.de","Merchant":{"ID":60741,"Name":"Tirendo","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":60542,"Domain":"tirendo.co.uk","Merchant":{"ID":60741,"Name":"Tirendo","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":69482,"Domain":"tirendo.se","Merchant":{"ID":60741,"Name":"Tirendo","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":69490,"Domain":"tirendo.it","Merchant":{"ID":60741,"Name":"Tirendo","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":69481,"Domain":"tirendo.no","Merchant":{"ID":60741,"Name":"Tirendo","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":69480,"Domain":"tirendo.be","Merchant":{"ID":60741,"Name":"Tirendo","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":3924659,"Domain":"tirendo.es","Merchant":{"ID":60741,"Name":"Tirendo","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":3924658,"Domain":"tirendo.dk","Merchant":{"ID":60741,"Name":"Tirendo","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":58129,"Domain":"tirendo.fr","Merchant":{"ID":60741,"Name":"Tirendo","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":3924660,"Domain":"tirendo.nl","Merchant":{"ID":60741,"Name":"Tirendo","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":45987,"Domain":"gsparkplug.com","Merchant":{"ID":60744,"Name":"The Green Spark Plug Company","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":60544,"Domain":"synervacbdoils.co.uk","Merchant":{"ID":60745,"Name":"Synerva CBD Oils","MaxRate":null}}
+{"ID":46015,"Domain":"travelsphere.co.uk","Merchant":{"ID":60746,"Name":"Travelsphere.co.uk","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":60546,"Domain":"beautify.co.uk","Merchant":{"ID":60747,"Name":"Beautify","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.2"}}}
+{"ID":95322,"Domain":"btfy.com","Merchant":{"ID":60747,"Name":"Beautify","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.2"}}}
+{"ID":105334,"Domain":"broraonline.com","Merchant":{"ID":60749,"Name":"Brora","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":60548,"Domain":"brora.co.uk","Merchant":{"ID":60749,"Name":"Brora","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":46058,"Domain":"wherethetradebuys.co.uk","Merchant":{"ID":60751,"Name":"Where The Trade Buys","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":45809,"Domain":"nts.org.uk","Merchant":{"ID":60754,"Name":"National Trust for Scotland","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":45511,"Domain":"femmeluxefinery.co.uk","Merchant":{"ID":60755,"Name":"Femme Luxe","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":95273,"Domain":"femmeluxe.co.uk","Merchant":{"ID":60755,"Name":"Femme Luxe","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.4"}}}
+{"ID":45385,"Domain":"jewelfirst.co.uk","Merchant":{"ID":60757,"Name":"Jewel First","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":45825,"Domain":"nkuku.com","Merchant":{"ID":60758,"Name":"Nkuku","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":60554,"Domain":"theknittingnetwork.co.uk","Merchant":{"ID":60760,"Name":"The Knitting Network","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":45476,"Domain":"autodoc.co.uk","Merchant":{"ID":60762,"Name":"Autodoc","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":3919267,"Domain":"auto-doc.fr","Merchant":{"ID":60762,"Name":"Autodoc","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":45570,"Domain":"auto-doc.it","Merchant":{"ID":60762,"Name":"Autodoc","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":105619,"Domain":"autodoc.dk","Merchant":{"ID":60762,"Name":"Autodoc","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":110491,"Domain":"autodoc.se","Merchant":{"ID":60762,"Name":"Autodoc","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":3919290,"Domain":"autodoc.de","Merchant":{"ID":60762,"Name":"Autodoc","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":45575,"Domain":"autodoc.nl","Merchant":{"ID":60762,"Name":"Autodoc","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":75715,"Domain":"autodoc.es","Merchant":{"ID":60762,"Name":"Autodoc","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.2"}}}
+{"ID":60727,"Domain":"myoddballs.com","Merchant":{"ID":60903,"Name":"OddBalls","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":60898,"Domain":"ellyserver.de","Merchant":{"ID":60907,"Name":"ELLY Server","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":60900,"Domain":"dorsethideaways.co.uk","Merchant":{"ID":60911,"Name":"Dorset Hideaways","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":60896,"Domain":"blowltd.com","Merchant":{"ID":60914,"Name":"blow","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":60902,"Domain":"zsl.org","Merchant":{"ID":60915,"Name":"Zoological Society of London","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":60917,"Domain":"theblueground.com","Merchant":{"ID":60920,"Name":"Blueground","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":60918,"Domain":"gambody.com","Merchant":{"ID":60922,"Name":"Gambody Premium 3D Printing Files","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":45425,"Domain":"candlesdirect.com","Merchant":{"ID":60925,"Name":"Candles Direct","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":60923,"Domain":"nakinskincare.com","Merchant":{"ID":60926,"Name":"Nakin Skin Care","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":60927,"Domain":"arran.com","Merchant":{"ID":61025,"Name":"Arran - Sense of Scotland","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":45453,"Domain":"carrs-silver.co.uk","Merchant":{"ID":61026,"Name":"Carrs Silver","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":45456,"Domain":"charleskeith.co.uk","Merchant":{"ID":61027,"Name":"Charles & Keith","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":3919833,"Domain":"charleskeith.com","Merchant":{"ID":61027,"Name":"Charles & Keith","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":45426,"Domain":"charleskeith.eu","Merchant":{"ID":61027,"Name":"Charles & Keith","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":34909,"Domain":"diycarserviceparts.co.uk","Merchant":{"ID":61028,"Name":"DIY Car Service Parts","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":46047,"Domain":"vitalifehealth.com","Merchant":{"ID":61029,"Name":"Vitalife Health","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":45353,"Domain":"aatu.co.uk","Merchant":{"ID":61038,"Name":"AATU Dog and Cat Food","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":60929,"Domain":"inspireuplift.com","Merchant":{"ID":61040,"Name":"Inspire Uplift","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":60930,"Domain":"harperwilde.com","Merchant":{"ID":61041,"Name":"Harper Wilde","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":5502578,"Domain":"scripts.affilired.com","Merchant":{"ID":61050,"Name":"Original Resorts","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":102289,"Domain":"original-group.com","Merchant":{"ID":61050,"Name":"Original Resorts","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":61101,"Domain":"dolphindiscovery.com","Merchant":{"ID":61051,"Name":"Dolphin Discovery","MaxRate":{"Kind":"FLAT","Amount":"0.005","Currency":"USD"}}}
+{"ID":60935,"Domain":"business.landsend.com","Merchant":{"ID":61054,"Name":"Lands' End Business Outfitters","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":60936,"Domain":"korkease.com","Merchant":{"ID":61056,"Name":"Kork-Ease","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":61102,"Domain":"derbyhotels.com","Merchant":{"ID":61057,"Name":"Derby Hotels","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":60938,"Domain":"mosaictileoutlet.com","Merchant":{"ID":61060,"Name":"Mosaic Tile Outlet","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":60940,"Domain":"outandout.com","Merchant":{"ID":61065,"Name":"Out & Out Original","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":60942,"Domain":"plazapremiumlounge.com","Merchant":{"ID":61067,"Name":"Plaza Premium","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":75471,"Domain":"plaza-network.com","Merchant":{"ID":61067,"Name":"Plaza Premium","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.6"}}}
+{"ID":95448,"Domain":"thegoodprep.com","Merchant":{"ID":61069,"Name":"Balance (Healthy Food Deliveries)","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":60943,"Domain":"balancemeals.co.uk","Merchant":{"ID":61069,"Name":"Balance (Healthy Food Deliveries)","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":45454,"Domain":"nomow.co.uk","Merchant":{"ID":61070,"Name":"Nomow Limited","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":46022,"Domain":"turnbullandasser.co.uk","Merchant":{"ID":61071,"Name":"Turnbull and Asser","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":60944,"Domain":"turnbullandasser.com","Merchant":{"ID":61071,"Name":"Turnbull and Asser","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":60945,"Domain":"priorydirect.co.uk","Merchant":{"ID":61072,"Name":"Priory Direct","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":34870,"Domain":"kitbox.co","Merchant":{"ID":61073,"Name":"Kitbox","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":60946,"Domain":"easyguide.biz","Merchant":{"ID":61074,"Name":"easyGuide","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":60947,"Domain":"townsendmusic.store","Merchant":{"ID":61075,"Name":"Townsend Music","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":60948,"Domain":"lswmindcards.com","Merchant":{"ID":61076,"Name":"LSW Mind Cards","MaxRate":{"Kind":"PERCENTAGE","Amount":"15"}}}
+{"ID":60950,"Domain":"constancehotels.com","Merchant":{"ID":61078,"Name":"Constance Hotels","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":60953,"Domain":"gsfcarparts.com","Merchant":{"ID":61079,"Name":"GSF Car Parts","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":60954,"Domain":"kallysleep.com","Merchant":{"ID":61080,"Name":"Kally Sleep","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":45966,"Domain":"sweet-cures.com","Merchant":{"ID":61081,"Name":"Sweet Cures","MaxRate":{"Kind":"PERCENTAGE","Amount":"8"}}}
+{"ID":124820,"Domain":"sweetcures.co.uk","Merchant":{"ID":61081,"Name":"Sweet Cures","MaxRate":{"Kind":"PERCENTAGE","Amount":"7"}}}
+{"ID":111224,"Domain":"bluecrate.com","Merchant":{"ID":61083,"Name":"Bluecrate","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":60956,"Domain":"uk.bluecrate.com","Merchant":{"ID":61083,"Name":"Bluecrate","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":70218,"Domain":"lentiamo.se","Merchant":{"ID":61086,"Name":"Lentiamo","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":70219,"Domain":"lentiamo.nl","Merchant":{"ID":61086,"Name":"Lentiamo","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":69271,"Domain":"lentiamo.be","Merchant":{"ID":61086,"Name":"Lentiamo","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":70217,"Domain":"lentiamo.es","Merchant":{"ID":61086,"Name":"Lentiamo","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":65610,"Domain":"lentiamo.fr","Merchant":{"ID":61086,"Name":"Lentiamo","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":60959,"Domain":"lentiamo.co.uk","Merchant":{"ID":61086,"Name":"Lentiamo","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":84728,"Domain":"lentiamo.ie","Merchant":{"ID":61086,"Name":"Lentiamo","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":70216,"Domain":"lentiamo.dk","Merchant":{"ID":61086,"Name":"Lentiamo","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":60961,"Domain":"myvegan.com","Merchant":{"ID":61088,"Name":"MyVegan","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":106611,"Domain":"myvegan.fr","Merchant":{"ID":61088,"Name":"MyVegan","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":60962,"Domain":"plumbworld.co.uk","Merchant":{"ID":61089,"Name":"Plumbworld","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":35423,"Domain":"cbdarmour.co.uk","Merchant":{"ID":61092,"Name":"CBD Armour","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":61030,"Domain":"barkingheads.co.uk","Merchant":{"ID":61094,"Name":"Barkings Heads & Meowing Heads (Dog and Cat food)","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":61031,"Domain":"vintagewineandport.co.uk","Merchant":{"ID":61095,"Name":"Vintage Wine & Port","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":61033,"Domain":"finebedding.co.uk","Merchant":{"ID":61141,"Name":"The Fine Bedding Company","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":45841,"Domain":"ottomanhands.com","Merchant":{"ID":61143,"Name":"Ottoman Hands","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":122569,"Domain":"mattressman.co.uk","Merchant":{"ID":61144,"Name":"Bedman","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":61035,"Domain":"bedman.co.uk","Merchant":{"ID":61144,"Name":"Bedman","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":61042,"Domain":"sporteyes.com","Merchant":{"ID":61147,"Name":"A Sight For Sport Eyes","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":61097,"Domain":"etonshirts.com","Merchant":{"ID":61151,"Name":"Eton Shirts US","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":46021,"Domain":"trufflehunter.co.uk","Merchant":{"ID":61157,"Name":"TruffleHunter","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":61111,"Domain":"sianmarie.com","Merchant":{"ID":61160,"Name":"Sian Marie","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":3920716,"Domain":"chemist.co.uk","Merchant":{"ID":61163,"Name":"Chemist.co.uk","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.75"}}}
+{"ID":61115,"Domain":"thebestofexmoor.co.uk","Merchant":{"ID":61164,"Name":"The Best of Exmoor","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":61116,"Domain":"parisianfashion.com","Merchant":{"ID":61165,"Name":"Parisian Fashion","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":61117,"Domain":"vonhaus.com","Merchant":{"ID":61167,"Name":"VonHaus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":35674,"Domain":"travelinsurancesaver.com.au","Merchant":{"ID":61168,"Name":"Travel Insurance Saver","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":61122,"Domain":"itchpet.com","Merchant":{"ID":61172,"Name":"Itch Pet","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":61187,"Domain":"letsferry.gr","Merchant":{"ID":61475,"Name":"Let’s Ferry","MaxRate":{"Kind":"FLAT","Amount":"0.005","Currency":"USD"}}}
+{"ID":61189,"Domain":"oakshotels.com","Merchant":{"ID":61476,"Name":"Oaks Hotels & Resorts","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":61188,"Domain":"hotelxcaret.com","Merchant":{"ID":61477,"Name":"Hotel Xcaret","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":61100,"Domain":"swiss-belhotel.com","Merchant":{"ID":61478,"Name":"Swiss BelHotel International","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":61099,"Domain":"princess-hotels.com","Merchant":{"ID":61480,"Name":"Princess Hotels","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":122671,"Domain":"avanihotels.com","Merchant":{"ID":61482,"Name":"Avani Hotels & Resorts","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":61196,"Domain":"minorhotels.com","Merchant":{"ID":61482,"Name":"Avani Hotels & Resorts","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":61197,"Domain":"keytours.gr","Merchant":{"ID":61484,"Name":"Keytours","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":8073,"Domain":"gruppouna.it","Merchant":{"ID":61485,"Name":"Gruppo Una","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":61199,"Domain":"berjayahotel.com","Merchant":{"ID":61487,"Name":"Berjaya Hotels","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":61200,"Domain":"bluebayresorts.com","Merchant":{"ID":61488,"Name":"Blue Bay Resorts","MaxRate":{"Kind":"FLAT","Amount":"0.005","Currency":"USD"}}}
+{"ID":61127,"Domain":"1cbd.uk","Merchant":{"ID":61491,"Name":"1CBD","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":61129,"Domain":"downyourhighstreet.co.uk","Merchant":{"ID":61494,"Name":"Down Your High Street","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":61130,"Domain":"get-nourished.com","Merchant":{"ID":61495,"Name":"Get Nourished","MaxRate":{"Kind":"FLAT","Amount":"6","Currency":"GBP"}}}
+{"ID":103798,"Domain":"us.get-nourished.com","Merchant":{"ID":61495,"Name":"Get Nourished","MaxRate":{"Kind":"FLAT","Amount":"3.5","Currency":"USD"}}}
+{"ID":45724,"Domain":"holidaytaxis.com","Merchant":{"ID":61496,"Name":"Holiday Taxis","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":61133,"Domain":"botanycl.co.uk","Merchant":{"ID":61500,"Name":"Botanycl","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":45612,"Domain":"botanycl.com","Merchant":{"ID":61500,"Name":"Botanycl","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":61134,"Domain":"sparepartstore24.co.uk","Merchant":{"ID":61501,"Name":"Sparepartstore24 UK","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":61135,"Domain":"discountexperts.com","Merchant":{"ID":61503,"Name":"Discount Experts","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":61136,"Domain":"bambooclothing.co.uk","Merchant":{"ID":61505,"Name":"Bamboo Clothing","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":61137,"Domain":"katchme.com","Merchant":{"ID":61506,"Name":"Katch Me","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":45504,"Domain":"explorerinsurance.co.uk","Merchant":{"ID":61509,"Name":"Explorer Travel Insurance","MaxRate":{"Kind":"PERCENTAGE","Amount":"8.75"}}}
+{"ID":61175,"Domain":"zeromarkup.com","Merchant":{"ID":61510,"Name":"ZeroMarkup","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":61179,"Domain":"teddybeau.com","Merchant":{"ID":61512,"Name":"Teddy Beau","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":61180,"Domain":"openforvintage.com","Merchant":{"ID":61516,"Name":"Open for Vintage","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":45899,"Domain":"safejawz.com","Merchant":{"ID":61880,"Name":"Safe Jawz","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":61183,"Domain":"prestige.co.uk","Merchant":{"ID":61882,"Name":"Prestige","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":61184,"Domain":"circulon.uk.com","Merchant":{"ID":61883,"Name":"Circulon","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":61526,"Domain":"cherry-lane.co.uk","Merchant":{"ID":61892,"Name":"Cherry Lane Garden Centres","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":61473,"Domain":"lovedrobe.co.uk","Merchant":{"ID":61895,"Name":"Lovedrobe","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.75"}}}
+{"ID":61492,"Domain":"duluxdecoratorcentre.co.uk","Merchant":{"ID":61897,"Name":"Dulux Decorator Centre","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":46044,"Domain":"vinatis.co.uk","Merchant":{"ID":61898,"Name":"Vinatis","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":104275,"Domain":"vinatis.es","Merchant":{"ID":61898,"Name":"Vinatis","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":61525,"Domain":"vanessabruno.fr","Merchant":{"ID":61900,"Name":"Vanessa Bruno","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":61521,"Domain":"gameserver.4players.de","Merchant":{"ID":61902,"Name":"gameserver DE","MaxRate":{"Kind":"PERCENTAGE","Amount":"25"}}}
+{"ID":122674,"Domain":"4netplayers.com","Merchant":{"ID":61902,"Name":"gameserver DE","MaxRate":{"Kind":"PERCENTAGE","Amount":"25"}}}
+{"ID":61681,"Domain":"badathletics.com","Merchant":{"ID":61904,"Name":"Bad Athletics","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":45764,"Domain":"merlinannualpass.co.uk","Merchant":{"ID":61907,"Name":"Merlin Passes","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":61683,"Domain":"alpinetrek.co.uk","Merchant":{"ID":61910,"Name":"Alpinetrek UK","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":61684,"Domain":"planet-warrior.com","Merchant":{"ID":61911,"Name":"Planet Warrior (Recycled Plastic Yoga Wear)","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":61876,"Domain":"awin.hotelogical.com","Merchant":{"ID":61914,"Name":"Hotelogical","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":5515169,"Domain":"herocosmetics.us","Merchant":{"ID":61915,"Name":"Hero Cosmetics","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":61877,"Domain":"freewaters.com","Merchant":{"ID":61916,"Name":"Freewaters","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":61686,"Domain":"learning247.co.uk","Merchant":{"ID":61917,"Name":"Learning 24/7","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":61689,"Domain":"incredibledirect.com","Merchant":{"ID":61920,"Name":"Incredibledirect","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":61691,"Domain":"scan.co.uk","Merchant":{"ID":61922,"Name":"Scan Computers","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":61692,"Domain":"riseandfall.co","Merchant":{"ID":61923,"Name":"Rise&Fall","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":61926,"Domain":"zingflowers.com","Merchant":{"ID":61927,"Name":"Zing Flowers","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":61929,"Domain":"sleepandbeyond.com","Merchant":{"ID":61932,"Name":"Sleep and Beyond","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":82713,"Domain":"aosom.fr","Merchant":{"ID":62181,"Name":"Aosom","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":75472,"Domain":"aosom.es","Merchant":{"ID":62181,"Name":"Aosom","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":76924,"Domain":"aosom.it","Merchant":{"ID":62181,"Name":"Aosom","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":81152,"Domain":"aosom.ie","Merchant":{"ID":62181,"Name":"Aosom","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":124580,"Domain":"aosom.be","Merchant":{"ID":62181,"Name":"Aosom","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":45399,"Domain":"aosom.de","Merchant":{"ID":62181,"Name":"Aosom","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":61941,"Domain":"aosom.co.uk","Merchant":{"ID":62181,"Name":"Aosom","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66997,"Domain":"aosom.com","Merchant":{"ID":62181,"Name":"Aosom","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":8074,"Domain":"aosom.ca","Merchant":{"ID":62181,"Name":"Aosom","MaxRate":{"Kind":"FLAT","Amount":"10","Currency":"USD"}}}
+{"ID":129434,"Domain":"app.fizzer.com","Merchant":{"ID":62182,"Name":"Fizzer","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.5"}}}
+{"ID":61935,"Domain":"dailyhighclub.com","Merchant":{"ID":62187,"Name":"Daily High Club","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":61936,"Domain":"bronsonvitamins.com","Merchant":{"ID":62188,"Name":"Bronson Vitamins","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":61946,"Domain":"tyres-pneus-online.co.uk","Merchant":{"ID":62190,"Name":"Tyres Pneus Online UK","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.8"}}}
+{"ID":61945,"Domain":"ac-deco.com","Merchant":{"ID":62192,"Name":"AC DECO FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":45974,"Domain":"technextday.co.uk","Merchant":{"ID":62193,"Name":"Technextday","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.51"}}}
+{"ID":104276,"Domain":"verisure.nl","Merchant":{"ID":62194,"Name":"Verisure","MaxRate":{"Kind":"FLAT","Amount":"10","Currency":"EUR"}}}
+{"ID":61949,"Domain":"verisure.co.uk","Merchant":{"ID":62194,"Name":"Verisure","MaxRate":{"Kind":"FLAT","Amount":"50","Currency":"GBP"}}}
+{"ID":61950,"Domain":"pascoe.ca","Merchant":{"ID":62195,"Name":"Pascoe","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":61951,"Domain":"animalpak.com","Merchant":{"ID":62196,"Name":"AnimalPak","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":62197,"Domain":"chocri.de","Merchant":{"ID":62208,"Name":"chocri.de","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":45773,"Domain":"mitre.com","Merchant":{"ID":62211,"Name":"Mitre","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":62205,"Domain":"premierline.co.uk","Merchant":{"ID":62212,"Name":"Premierline","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":69836,"Domain":"sizeofficial.se","Merchant":{"ID":64195,"Name":"Size?","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":69835,"Domain":"sizeofficial.dk","Merchant":{"ID":64195,"Name":"Size?","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":108570,"Domain":"sizeofficial.nl","Merchant":{"ID":64195,"Name":"Size?","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":119122,"Domain":"sizeofficial.ie","Merchant":{"ID":64195,"Name":"Size?","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.4"}}}
+{"ID":125855,"Domain":"size.ca","Merchant":{"ID":64195,"Name":"Size?","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":127027,"Domain":"sizeofficial.es","Merchant":{"ID":64195,"Name":"Size?","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.8"}}}
+{"ID":63686,"Domain":"size.co.uk","Merchant":{"ID":64195,"Name":"Size?","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":107292,"Domain":"sizeofficial.it","Merchant":{"ID":64195,"Name":"Size?","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.8"}}}
+{"ID":107282,"Domain":"sizeofficial.fr","Merchant":{"ID":64195,"Name":"Size?","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.8"}}}
+{"ID":75225,"Domain":"lp.degustabox.com","Merchant":{"ID":64202,"Name":"Degusta Box","MaxRate":{"Kind":"FLAT","Amount":"2","Currency":"EUR"}}}
+{"ID":3920219,"Domain":"degustabox.com","Merchant":{"ID":64202,"Name":"Degusta Box","MaxRate":{"Kind":"FLAT","Amount":"2","Currency":"EUR"}}}
+{"ID":128894,"Domain":"pandalondon.com","Merchant":{"ID":64203,"Name":"Panda","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":62184,"Domain":"mypandalife.com","Merchant":{"ID":64203,"Name":"Panda","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":62199,"Domain":"wechselpilot.com","Merchant":{"ID":64204,"Name":"Wechselpilot DE","MaxRate":{"Kind":"FLAT","Amount":"15","Currency":"EUR"}}}
+{"ID":62202,"Domain":"endoca.com","Merchant":{"ID":64206,"Name":"Endoca","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":62207,"Domain":"canterbury.com","Merchant":{"ID":64211,"Name":"Canterbury of New Zealand","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":62612,"Domain":"dancedirect.com","Merchant":{"ID":64213,"Name":"Dance Direct","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":45610,"Domain":"bravofly.de","Merchant":{"ID":64215,"Name":"Bravofly","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":45608,"Domain":"bravofly.ch","Merchant":{"ID":64215,"Name":"Bravofly","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":70907,"Domain":"bravofly.se","Merchant":{"ID":64215,"Name":"Bravofly","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":70908,"Domain":"bravofly.no","Merchant":{"ID":64215,"Name":"Bravofly","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":45422,"Domain":"bravofly.com.au","Merchant":{"ID":64215,"Name":"Bravofly","MaxRate":{"Kind":"FLAT","Amount":"7","Currency":"AUD"}}}
+{"ID":3921855,"Domain":"karenmillen.com","Merchant":{"ID":64216,"Name":"Karen Millen","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":62613,"Domain":"brittany-ferries.co.uk","Merchant":{"ID":64217,"Name":"Brittany Ferries","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":69326,"Domain":"jogging-point.de","Merchant":{"ID":64221,"Name":"Jogging Point","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":45391,"Domain":"jogging-point.co.uk","Merchant":{"ID":64221,"Name":"Jogging Point","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":124601,"Domain":"running-point.de","Merchant":{"ID":64221,"Name":"Jogging Point","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":124793,"Domain":"running-point.co.uk","Merchant":{"ID":64221,"Name":"Jogging Point","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":68643,"Domain":"jogging-point.at","Merchant":{"ID":64221,"Name":"Jogging Point","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.5"}}}
+{"ID":124600,"Domain":"running-point.at","Merchant":{"ID":64221,"Name":"Jogging Point","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.5"}}}
+{"ID":62217,"Domain":"monbento.co.uk","Merchant":{"ID":64222,"Name":"Monbento","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.5"}}}
+{"ID":69169,"Domain":"monbento.de","Merchant":{"ID":64222,"Name":"Monbento","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.5"}}}
+{"ID":62216,"Domain":"us.monbento.com","Merchant":{"ID":64222,"Name":"Monbento","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.5"}}}
+{"ID":59367,"Domain":"monbento.com","Merchant":{"ID":64222,"Name":"Monbento","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.5"}}}
+{"ID":62614,"Domain":"diggs.pet","Merchant":{"ID":64224,"Name":"Diggs","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":45847,"Domain":"pactcoffee.com","Merchant":{"ID":64225,"Name":"Pact Coffee","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":46057,"Domain":"westlotto.de","Merchant":{"ID":64227,"Name":"WestLotto","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":62617,"Domain":"rubymoon.org.uk","Merchant":{"ID":64228,"Name":"Rubymoon","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":62544,"Domain":"livexmaintain.com","Merchant":{"ID":64229,"Name":"Live X Maintain","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":62695,"Domain":"walklondonshoes.com","Merchant":{"ID":64231,"Name":"Walk London","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":62615,"Domain":"mactrade.de","Merchant":{"ID":64232,"Name":"MacTrade - Apple Store DE","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":62616,"Domain":"welovelenses.com","Merchant":{"ID":64233,"Name":"We Love Lenses","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":46053,"Domain":"uk.welovelenses.com","Merchant":{"ID":64233,"Name":"We Love Lenses","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":81526,"Domain":"e3energycubes.com","Merchant":{"ID":64235,"Name":"E3 Foods","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":63024,"Domain":"goenergyfoods.myshopify.com","Merchant":{"ID":64235,"Name":"E3 Foods","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":74907,"Domain":"westonbrands.com","Merchant":{"ID":64236,"Name":"Weston Supply","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":63451,"Domain":"westonsupply.com","Merchant":{"ID":64236,"Name":"Weston Supply","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":45491,"Domain":"callashoes.co.uk","Merchant":{"ID":64242,"Name":"Calla Shoes","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":63680,"Domain":"cotswoldshideaways.co.uk","Merchant":{"ID":64245,"Name":"Cotswolds Hideaways","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":63681,"Domain":"evolvebeauty.co.uk","Merchant":{"ID":64400,"Name":"Evolve Beauty","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":63682,"Domain":"nootropics.com","Merchant":{"ID":64401,"Name":"Nootropics.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":83091,"Domain":"lovisa.com.au","Merchant":{"ID":64407,"Name":"Lovisa","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":64402,"Domain":"lovisa.uk","Merchant":{"ID":64407,"Name":"Lovisa","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":45500,"Domain":"endurasport.com","Merchant":{"ID":64408,"Name":"Endura","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":63455,"Domain":"verticalextreme.de","Merchant":{"ID":64410,"Name":"VerticalExtreme","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":63685,"Domain":"highstreetoutlet.com","Merchant":{"ID":64411,"Name":"Highstreet Outlet","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":63684,"Domain":"foraygolf.com","Merchant":{"ID":64419,"Name":"Foray Golf","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":64192,"Domain":"krackonline.com","Merchant":{"ID":64518,"Name":"Krack Online","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":64193,"Domain":"gpfilter.com","Merchant":{"ID":64519,"Name":"GlacialPure","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":77421,"Domain":"madeindesign.de","Merchant":{"ID":64520,"Name":"Made in Design","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":60897,"Domain":"madeindesign.com","Merchant":{"ID":64520,"Name":"Made in Design","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":64190,"Domain":"madeindesign.co.uk","Merchant":{"ID":64520,"Name":"Made in Design","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":84329,"Domain":"madeindesign.it","Merchant":{"ID":64520,"Name":"Made in Design","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.845"}}}
+{"ID":64238,"Domain":"bourbonandboweties.com","Merchant":{"ID":65029,"Name":"Bourbon and Boweties","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":64398,"Domain":"monthlyteeclub.com","Merchant":{"ID":65030,"Name":"Monthly Tee Club","MaxRate":{"Kind":"FLAT","Amount":"2.5","Currency":"GBP"}}}
+{"ID":69864,"Domain":"mynametags.be","Merchant":{"ID":65032,"Name":"My Nametags","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":64406,"Domain":"mynametags.fr","Merchant":{"ID":65032,"Name":"My Nametags","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":45793,"Domain":"mynametags.it","Merchant":{"ID":65032,"Name":"My Nametags","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":68657,"Domain":"mynametags.nl","Merchant":{"ID":65032,"Name":"My Nametags","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":64405,"Domain":"mynametags.com","Merchant":{"ID":65032,"Name":"My Nametags","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":46028,"Domain":"ueni.com","Merchant":{"ID":65033,"Name":"UENI","MaxRate":{"Kind":"PERCENTAGE","Amount":"17.5"}}}
+{"ID":65025,"Domain":"luke1977.com","Merchant":{"ID":65036,"Name":"Luke Roper","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.4"}}}
+{"ID":64416,"Domain":"ukecigstore.com","Merchant":{"ID":65042,"Name":"eCig Store","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":45414,"Domain":"beyond.life","Merchant":{"ID":65166,"Name":"Beyond","MaxRate":{"Kind":"PERCENTAGE","Amount":"17.5"}}}
+{"ID":45417,"Domain":"eu.blackshark.com","Merchant":{"ID":65169,"Name":"Black Shark","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.25"}}}
+{"ID":79936,"Domain":"global.blackshark.com","Merchant":{"ID":65169,"Name":"Black Shark","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.25"}}}
+{"ID":65156,"Domain":"uk.blackshark.com","Merchant":{"ID":65169,"Name":"Black Shark","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.25"}}}
+{"ID":45412,"Domain":"buntypetproducts.co.uk","Merchant":{"ID":65171,"Name":"Bunty Pet Products","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":65163,"Domain":"checkout.timeout.com","Merchant":{"ID":65363,"Name":"Time Out Offers","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":65178,"Domain":"premiumjane.com","Merchant":{"ID":65367,"Name":"Premium Jane","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":65179,"Domain":"kineuphorics.com","Merchant":{"ID":65622,"Name":"Kin Euphorics","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":66102,"Domain":"shop.kineuphorics.com","Merchant":{"ID":65622,"Name":"Kin Euphorics","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":70630,"Domain":"hrs.de","Merchant":{"ID":65623,"Name":"HRS","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":64414,"Domain":"hrs.com","Merchant":{"ID":65623,"Name":"HRS","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":65359,"Domain":"kidsbooks.com","Merchant":{"ID":65624,"Name":"Kidsbooks.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":65361,"Domain":"my-furniture.com","Merchant":{"ID":65625,"Name":"My-Furniture","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":65369,"Domain":"mclabels.com","Merchant":{"ID":65626,"Name":"MCLABELS","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":45604,"Domain":"cornwallhideaways.co.uk","Merchant":{"ID":65629,"Name":"Cornwall Hideaways","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":65611,"Domain":"weddingmall.co.uk","Merchant":{"ID":65631,"Name":"Wedding Mall","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":73932,"Domain":"startsampling.com","Merchant":{"ID":65642,"Name":"Start Sampling","MaxRate":{"Kind":"FLAT","Amount":"0.05","Currency":"USD"}}}
+{"ID":65804,"Domain":"nordpass.com","Merchant":{"ID":65814,"Name":"NordPass","MaxRate":{"Kind":"PERCENTAGE","Amount":"37.5"}}}
+{"ID":65613,"Domain":"curiositystream.com","Merchant":{"ID":65816,"Name":"CuriosityStream","MaxRate":{"Kind":"PERCENTAGE","Amount":"25"}}}
+{"ID":65834,"Domain":"prokeds.com","Merchant":{"ID":65838,"Name":"Pro Keds","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":65810,"Domain":"luminskin.com","Merchant":{"ID":65839,"Name":"Lumin","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":65828,"Domain":"bakedbymelissa.com","Merchant":{"ID":65840,"Name":"Baked by Melissa","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":65821,"Domain":"voiply.com","Merchant":{"ID":65843,"Name":"VoiPLy","MaxRate":{"Kind":"FLAT","Amount":"20","Currency":"USD"}}}
+{"ID":65825,"Domain":"myfonts.com","Merchant":{"ID":65845,"Name":"MyFonts","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":65827,"Domain":"finditparts.com","Merchant":{"ID":65846,"Name":"FinditParts","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":65819,"Domain":"travelpro.com","Merchant":{"ID":65849,"Name":"Travelpro","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":118589,"Domain":"eu.travelpro.com","Merchant":{"ID":65849,"Name":"Travelpro","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":125289,"Domain":"prolon-eu1.myshopify.com","Merchant":{"ID":65851,"Name":"ProLon","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":124531,"Domain":"new-prolon.myshopify.com","Merchant":{"ID":65851,"Name":"ProLon","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":126158,"Domain":"prolon-nz.myshopify.com","Merchant":{"ID":65851,"Name":"ProLon","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":114454,"Domain":"prolonfmd.com","Merchant":{"ID":65851,"Name":"ProLon","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":65616,"Domain":"prolonfast.com","Merchant":{"ID":65851,"Name":"ProLon","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.5"}}}
+{"ID":124775,"Domain":"prolon-aus.myshopify.com","Merchant":{"ID":65851,"Name":"ProLon","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":126157,"Domain":"prolon-fasten.com","Merchant":{"ID":65851,"Name":"ProLon","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":125288,"Domain":"prolon-uk1.myshopify.com","Merchant":{"ID":65851,"Name":"ProLon","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":124532,"Domain":"prolon-france.myshopify.com","Merchant":{"ID":65851,"Name":"ProLon","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":111378,"Domain":"prolon.eu","Merchant":{"ID":65851,"Name":"ProLon","MaxRate":{"Kind":"FLAT","Amount":"22.5","Currency":"EUR"}}}
+{"ID":65823,"Domain":"opencare.com","Merchant":{"ID":65852,"Name":"Opencare","MaxRate":{"Kind":"FLAT","Amount":"40","Currency":"USD"}}}
+{"ID":65824,"Domain":"lumen5.com","Merchant":{"ID":65854,"Name":"Lumen5","MaxRate":{"Kind":"PERCENTAGE","Amount":"25"}}}
+{"ID":5518393,"Domain":"trytheworld.com","Merchant":{"ID":65865,"Name":"Try The World","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":5518251,"Domain":"getquip.com","Merchant":{"ID":65866,"Name":"quip","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":5518227,"Domain":"smoko.com","Merchant":{"ID":65867,"Name":"SMOKO Electronic Cigarettes","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":75548,"Domain":"smokonow.com","Merchant":{"ID":65867,"Name":"SMOKO Electronic Cigarettes","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":5518242,"Domain":"temporarytattoos.com","Merchant":{"ID":65868,"Name":"Temporary Tattoos","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5518258,"Domain":"ifchic.com","Merchant":{"ID":65871,"Name":"IFCHIC","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":65831,"Domain":"monicaandandy.com","Merchant":{"ID":65873,"Name":"Monica + Andy","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":65876,"Domain":"zwilling.com","Merchant":{"ID":65881,"Name":"Zwilling","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":78519,"Domain":"zwilling.ca","Merchant":{"ID":65881,"Name":"Zwilling","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.8"}}}
+{"ID":65878,"Domain":"redbox.com","Merchant":{"ID":65882,"Name":"Redbox","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":65877,"Domain":"apexfoot.com","Merchant":{"ID":65883,"Name":"Apex Foot","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":65826,"Domain":"americancrew.com","Merchant":{"ID":65884,"Name":"American Crew","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":65803,"Domain":"tally-weijl.com","Merchant":{"ID":65888,"Name":"Tally-Weijl FR","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":65833,"Domain":"loja.meupositivo.com.br","Merchant":{"ID":65894,"Name":"Positivo","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":65836,"Domain":"telhanorte.com.br","Merchant":{"ID":65896,"Name":"Telhanorte","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":45982,"Domain":"thebeerplanet.com.br","Merchant":{"ID":65897,"Name":"The Beer Planet","MaxRate":{"Kind":"PERCENTAGE","Amount":"5.5"}}}
+{"ID":65837,"Domain":"br.vaio.com","Merchant":{"ID":65898,"Name":"VAIO","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.15"}}}
+{"ID":65903,"Domain":"ladder.sport","Merchant":{"ID":66036,"Name":"Ladder","MaxRate":{"Kind":"PERCENTAGE","Amount":"8"}}}
+{"ID":95296,"Domain":"ladder.openfit.com","Merchant":{"ID":66036,"Name":"Ladder","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":65911,"Domain":"otherland.com","Merchant":{"ID":66039,"Name":"Otherland","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5514010,"Domain":"lifelineskincare.com","Merchant":{"ID":66040,"Name":"Lifeline Skincare","MaxRate":{"Kind":"PERCENTAGE","Amount":"6.5"}}}
+{"ID":65912,"Domain":"gadgetguard.com","Merchant":{"ID":66041,"Name":"Gadget Guard","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":65899,"Domain":"batteriesplus.com","Merchant":{"ID":66042,"Name":"Batteries Plus","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":65901,"Domain":"piedmontese.com","Merchant":{"ID":66043,"Name":"Piedmontese","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":3924284,"Domain":"suppliesshops.com","Merchant":{"ID":66046,"Name":"The Supplies Shops","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":65920,"Domain":"yumblekids.com","Merchant":{"ID":66047,"Name":"Yumble Kids","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5518311,"Domain":"popmarket.com","Merchant":{"ID":66048,"Name":"Pop Market","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":65921,"Domain":"mount-it.com","Merchant":{"ID":66049,"Name":"Mount-It","MaxRate":{"Kind":"PERCENTAGE","Amount":"4.25"}}}
+{"ID":37441,"Domain":"hellobonafide.com","Merchant":{"ID":66050,"Name":"Bonafide","MaxRate":{"Kind":"PERCENTAGE","Amount":"7"}}}
+{"ID":7255,"Domain":"serenol.com","Merchant":{"ID":66050,"Name":"Bonafide","MaxRate":{"Kind":"PERCENTAGE","Amount":"5.6"}}}
+{"ID":5520609,"Domain":"influenceu.com","Merchant":{"ID":66051,"Name":"Influence U","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":65926,"Domain":"danarebeccadesigns.com","Merchant":{"ID":66052,"Name":"Dana Rebecca Designs","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":65909,"Domain":"iwawine.com","Merchant":{"ID":66053,"Name":"IWA Wine","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":65956,"Domain":"yubico.com","Merchant":{"ID":66055,"Name":"Yubico","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":65929,"Domain":"untilgone.com","Merchant":{"ID":66056,"Name":"Until Gone","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":35454,"Domain":"fairweatherclothing.com","Merchant":{"ID":66057,"Name":"Fairweather","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":65973,"Domain":"gonimble.com","Merchant":{"ID":66058,"Name":"Nimble","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":35300,"Domain":"gerberchildrenswear.com","Merchant":{"ID":66060,"Name":"Gerber Childrenswear","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":78090,"Domain":"int.cariuma.com","Merchant":{"ID":66062,"Name":"Cariuma","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":65950,"Domain":"cariuma.com","Merchant":{"ID":66062,"Name":"Cariuma","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":65962,"Domain":"altrarunning.com","Merchant":{"ID":66063,"Name":"Altra Running","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":66012,"Domain":"muckbootcompany.com","Merchant":{"ID":66066,"Name":"Muck Boot","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":66030,"Domain":"apparis.com","Merchant":{"ID":66067,"Name":"Apparis","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":4666978,"Domain":"blissworld.com","Merchant":{"ID":66068,"Name":"Blissworld","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":5518357,"Domain":"suppliesoutlet.com","Merchant":{"ID":66069,"Name":"Supplies Outlet","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":66024,"Domain":"agmesnyc.com","Merchant":{"ID":66071,"Name":"AGMES","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":66000,"Domain":"fabricville.com","Merchant":{"ID":66072,"Name":"Fabricville","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":65974,"Domain":"tonerbuzz.com","Merchant":{"ID":66073,"Name":"Toner Buzz","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":65988,"Domain":"goodvibes.com","Merchant":{"ID":66074,"Name":"Good Vibrations","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":66006,"Domain":"cubcadet.com","Merchant":{"ID":66082,"Name":"Cub Cadet","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":83076,"Domain":"cubcadet.ca","Merchant":{"ID":66082,"Name":"Cub Cadet","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":66190,"Domain":"texassuperfood.com","Merchant":{"ID":66245,"Name":"Texas Superfood","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66171,"Domain":"enginediy.com","Merchant":{"ID":66249,"Name":"Engine DIY","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":66181,"Domain":"tucann.com","Merchant":{"ID":66252,"Name":"Tucann","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":66185,"Domain":"ironstudios.com","Merchant":{"ID":66253,"Name":"Iron Studios","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":66191,"Domain":"scop.io","Merchant":{"ID":66254,"Name":"Scopio","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":66166,"Domain":"swimzip.com","Merchant":{"ID":66255,"Name":"SwimZip","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":66178,"Domain":"sleepon.us","Merchant":{"ID":66256,"Name":"Sleepon","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":102817,"Domain":"sleeponhealth.com","Merchant":{"ID":66256,"Name":"Sleepon","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":127695,"Domain":"relxnow.fr","Merchant":{"ID":66257,"Name":"RELX","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":78426,"Domain":"relxnow.co.uk","Merchant":{"ID":66257,"Name":"RELX","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66188,"Domain":"hostcolor.com","Merchant":{"ID":66261,"Name":"Host Color","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":66154,"Domain":"geekon.nyc","Merchant":{"ID":66262,"Name":"GeekOn","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":96550,"Domain":"geekon.us","Merchant":{"ID":66262,"Name":"GeekOn","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":66225,"Domain":"shredoptics.com","Merchant":{"ID":66263,"Name":"SHRED","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":66117,"Domain":"truebill.com","Merchant":{"ID":66266,"Name":"Truebill","MaxRate":{"Kind":"FLAT","Amount":"5","Currency":"USD"}}}
+{"ID":130651,"Domain":"rocketmoney.com","Merchant":{"ID":66266,"Name":"Truebill","MaxRate":{"Kind":"FLAT","Amount":"5","Currency":"USD"}}}
+{"ID":66119,"Domain":"videopages.com","Merchant":{"ID":66267,"Name":"VideoPages","MaxRate":{"Kind":"FLAT","Amount":"60","Currency":"USD"}}}
+{"ID":66121,"Domain":"vrai.com","Merchant":{"ID":66268,"Name":"Vrai","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.8"}}}
+{"ID":66115,"Domain":"termly.io","Merchant":{"ID":66269,"Name":"Termly","MaxRate":{"Kind":"PERCENTAGE","Amount":"17.5"}}}
+{"ID":95306,"Domain":"jetbluevacations.com","Merchant":{"ID":66272,"Name":"JetBlue Travel","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.4"}}}
+{"ID":66239,"Domain":"qvcuk.com","Merchant":{"ID":66273,"Name":"QVC","MaxRate":{"Kind":"PERCENTAGE","Amount":"1"}}}
+{"ID":66123,"Domain":"fractureme.com","Merchant":{"ID":66274,"Name":"Fracture","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":66236,"Domain":"roadtrippers.com","Merchant":{"ID":66275,"Name":"Roadtrippers","MaxRate":{"Kind":"FLAT","Amount":"2.5","Currency":"USD"}}}
+{"ID":66237,"Domain":"spartoo.net","Merchant":{"ID":66277,"Name":"Spartoo","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":3924117,"Domain":"spartoo.com","Merchant":{"ID":66277,"Name":"Spartoo","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":70653,"Domain":"spartoo.de","Merchant":{"ID":66277,"Name":"Spartoo","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":122027,"Domain":"spartoo.pl","Merchant":{"ID":66277,"Name":"Spartoo","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":122053,"Domain":"spartoo.gr","Merchant":{"ID":66277,"Name":"Spartoo","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":3924116,"Domain":"spartoo.be","Merchant":{"ID":66277,"Name":"Spartoo","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":122089,"Domain":"spartoo.se","Merchant":{"ID":66277,"Name":"Spartoo","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":110380,"Domain":"spartoo.it","Merchant":{"ID":66277,"Name":"Spartoo","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":74371,"Domain":"trycaliper.com","Merchant":{"ID":66280,"Name":"Caliper CBD","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":66226,"Domain":"365factoryoutlet.com","Merchant":{"ID":66285,"Name":"365 Factory Outlet","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5497771,"Domain":"hokaoneone.com","Merchant":{"ID":66287,"Name":"Hoka One One","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":75894,"Domain":"hokaoneone.eu","Merchant":{"ID":66287,"Name":"Hoka One One","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":116284,"Domain":"hoka.com","Merchant":{"ID":66287,"Name":"Hoka One One","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":66126,"Domain":"fastinsupplement.com","Merchant":{"ID":66289,"Name":"LOW COST LEADERS INC.","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":66107,"Domain":"naturewise.com","Merchant":{"ID":66291,"Name":"NatureWise","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":66114,"Domain":"taxgroupcenter.com","Merchant":{"ID":66292,"Name":"Tax Group Center","MaxRate":{"Kind":"FLAT","Amount":"25","Currency":"USD"}}}
+{"ID":66128,"Domain":"primadonsanddonnas.com","Merchant":{"ID":66296,"Name":"Prima Dons and Donnas","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":66230,"Domain":"remitly.com","Merchant":{"ID":66300,"Name":"Remitly","MaxRate":{"Kind":"FLAT","Amount":"10","Currency":"USD"}}}
+{"ID":66133,"Domain":"designerteez.com","Merchant":{"ID":66301,"Name":"Designer Teez","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":66138,"Domain":"amrevsoftware.com","Merchant":{"ID":66302,"Name":"Amrev Technologies (amrevsoftware)","MaxRate":{"Kind":"PERCENTAGE","Amount":"17.5"}}}
+{"ID":75305,"Domain":"intolerance-lab.co.uk","Merchant":{"ID":66303,"Name":"IntoleranceLab","MaxRate":{"Kind":"PERCENTAGE","Amount":"20"}}}
+{"ID":66141,"Domain":"intolerancelab.co.uk","Merchant":{"ID":66303,"Name":"IntoleranceLab","MaxRate":{"Kind":"PERCENTAGE","Amount":"20"}}}
+{"ID":66143,"Domain":"tacticalxmen.com","Merchant":{"ID":66306,"Name":"Tacticalxmen.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":66150,"Domain":"americanhempoil.net","Merchant":{"ID":66310,"Name":"American Hemp Oil","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":66156,"Domain":"careersbooster.com","Merchant":{"ID":66317,"Name":"CareersBoost Ltd","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":66157,"Domain":"nowa.watch","Merchant":{"ID":66318,"Name":"NOWA Smart Watch","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":66163,"Domain":"shopsassyboutique.com","Merchant":{"ID":66320,"Name":"Tres Chic N Sassy, LLC (shopsassyboutique)","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66173,"Domain":"koshieo.com","Merchant":{"ID":66322,"Name":"koshieo llc","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":66174,"Domain":"stirlingkit.com","Merchant":{"ID":66332,"Name":"Stirlingkit","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":66183,"Domain":"maxcbdwellness.com","Merchant":{"ID":66334,"Name":"MaxCBD Wellness","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":66187,"Domain":"alexandriecellars.com","Merchant":{"ID":66335,"Name":"Alexandrie Cellars","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":66194,"Domain":"mt-flow.com","Merchant":{"ID":66338,"Name":"Mt-Flow","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":78369,"Domain":"morefilter.com","Merchant":{"ID":66338,"Name":"Mt-Flow","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":66197,"Domain":"eachandevery.com","Merchant":{"ID":66340,"Name":"Each & Every","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":66203,"Domain":"pur-well.com","Merchant":{"ID":66346,"Name":"Pur-Well Living","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":66168,"Domain":"tellinga.com","Merchant":{"ID":66347,"Name":"Tellinga","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":66204,"Domain":"skinbeautysolutions.com","Merchant":{"ID":66348,"Name":"Skin Beauty Solutions","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66207,"Domain":"oradix.com","Merchant":{"ID":66350,"Name":"Oradix Inc.","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":66189,"Domain":"posturepump.com","Merchant":{"ID":66355,"Name":"Posture Pro, Inc.","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":66214,"Domain":"dodocase.com","Merchant":{"ID":66356,"Name":"DODOcase","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":66220,"Domain":"store.cheerble.com","Merchant":{"ID":66357,"Name":"Cheerble","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":122603,"Domain":"bitly.com","Merchant":{"ID":66357,"Name":"Cheerble","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66223,"Domain":"biblestore.com","Merchant":{"ID":66359,"Name":"Biblestore.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":66023,"Domain":"prpsjeans.com","Merchant":{"ID":66555,"Name":"Prps Jeans","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":66328,"Domain":"toadandco.com","Merchant":{"ID":66559,"Name":"Toad & Co","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":66325,"Domain":"rocketdollar.com","Merchant":{"ID":66560,"Name":"Rocket Dollar","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":66105,"Domain":"bemighty.com","Merchant":{"ID":66561,"Name":"Mighty Audio","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":80527,"Domain":"getneuro.com","Merchant":{"ID":66562,"Name":"NeuroGum","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":66362,"Domain":"neurogum.com","Merchant":{"ID":66562,"Name":"NeuroGum","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":66345,"Domain":"manychat.com","Merchant":{"ID":66564,"Name":"ManyChat","MaxRate":{"Kind":"PERCENTAGE","Amount":"50"}}}
+{"ID":113657,"Domain":"thebattlebarss.myshopify.com","Merchant":{"ID":66565,"Name":"Battle Bars","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66552,"Domain":"luccofit.com.br","Merchant":{"ID":66567,"Name":"Lucco Fit","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":122665,"Domain":"comaprati.com.br","Merchant":{"ID":66567,"Name":"Lucco Fit","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":66554,"Domain":"audioengineusa.com","Merchant":{"ID":66570,"Name":"Audioengine","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66546,"Domain":"brother.ca","Merchant":{"ID":66572,"Name":"Brother","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":66327,"Domain":"semparar.com.br","Merchant":{"ID":66574,"Name":"Sem Parar","MaxRate":{"Kind":"FLAT","Amount":"14","Currency":"RUB"}}}
+{"ID":66233,"Domain":"joindeleteme.com","Merchant":{"ID":66577,"Name":"DeleteMe","MaxRate":{"Kind":"FLAT","Amount":"15","Currency":"USD"}}}
+{"ID":66234,"Domain":"linkyinnovation.com","Merchant":{"ID":66578,"Name":"Linky","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66323,"Domain":"creditkarma.com","Merchant":{"ID":66580,"Name":"Credit Karma","MaxRate":{"Kind":"FLAT","Amount":"3","Currency":"USD"}}}
+{"ID":66326,"Domain":"usedphotopro.com","Merchant":{"ID":66583,"Name":"UsedPhotoPro","MaxRate":{"Kind":"PERCENTAGE","Amount":"1.5"}}}
+{"ID":66241,"Domain":"cliqproducts.com","Merchant":{"ID":66584,"Name":"Cliq","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":66313,"Domain":"freshmealplan.com","Merchant":{"ID":66585,"Name":"Fresh Meal Plan","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66243,"Domain":"stevesgoods.com","Merchant":{"ID":66588,"Name":"Steve's Goods","MaxRate":{"Kind":"PERCENTAGE","Amount":"9"}}}
+{"ID":66314,"Domain":"edgewell.com","Merchant":{"ID":66589,"Name":"Edgewell","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66785,"Domain":"sportsmans.com","Merchant":{"ID":66931,"Name":"Sportsman's Warehouse","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":35590,"Domain":"sw.com.au","Merchant":{"ID":66931,"Name":"Sportsman's Warehouse","MaxRate":{"Kind":"PERCENTAGE","Amount":"6"}}}
+{"ID":66781,"Domain":"biocare.co.uk","Merchant":{"ID":66933,"Name":"BioCare","MaxRate":{"Kind":"PERCENTAGE","Amount":"3"}}}
+{"ID":66216,"Domain":"strainz.com","Merchant":{"ID":66935,"Name":"Strainz","MaxRate":{"Kind":"PERCENTAGE","Amount":"30"}}}
+{"ID":66930,"Domain":"steadyapp.com","Merchant":{"ID":66937,"Name":"Steady","MaxRate":{"Kind":"FLAT","Amount":"2","Currency":"USD"}}}
+{"ID":73975,"Domain":"web.steadyapp.com","Merchant":{"ID":66937,"Name":"Steady","MaxRate":{"Kind":"FLAT","Amount":"2.5","Currency":"USD"}}}
+{"ID":66777,"Domain":"logo.com","Merchant":{"ID":66940,"Name":"Logo.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":66784,"Domain":"victrola.com","Merchant":{"ID":66943,"Name":"Victrola","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":66786,"Domain":"lusetabeauty.com","Merchant":{"ID":66944,"Name":"Luseta Beauty","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":66917,"Domain":"undersunfitness.com","Merchant":{"ID":66946,"Name":"Undersun Fitness","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":105065,"Domain":"undersunfitness.ca","Merchant":{"ID":66946,"Name":"Undersun Fitness","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66924,"Domain":"coinmine.com","Merchant":{"ID":66949,"Name":"Coinmine","MaxRate":{"Kind":"FLAT","Amount":"20","Currency":"USD"}}}
+{"ID":66926,"Domain":"m1finance.com","Merchant":{"ID":66953,"Name":"M1 Finance","MaxRate":{"Kind":"FLAT","Amount":"28","Currency":"USD"}}}
+{"ID":122172,"Domain":"m1.com","Merchant":{"ID":66953,"Name":"M1 Finance","MaxRate":{"Kind":"FLAT","Amount":"50","Currency":"USD"}}}
+{"ID":66918,"Domain":"bloomscape.com","Merchant":{"ID":66955,"Name":"Bloomscape","MaxRate":{"Kind":"PERCENTAGE","Amount":"2"}}}
+{"ID":66604,"Domain":"myteadrop.com","Merchant":{"ID":66957,"Name":"Tea Drops","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66595,"Domain":"shuttlefinder.com","Merchant":{"ID":66960,"Name":"ShuttleFinder","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":66593,"Domain":"noize.com","Merchant":{"ID":66961,"Name":"Noize","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":5503007,"Domain":"overnightglasses.com","Merchant":{"ID":66963,"Name":"Overnight Glasses","MaxRate":{"Kind":"FLAT","Amount":"0.075","Currency":"USD"}}}
+{"ID":129775,"Domain":"yourfriendcleo.com","Merchant":{"ID":67143,"Name":"Cleo","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66973,"Domain":"zalousa.com","Merchant":{"ID":67144,"Name":"ZALO","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66983,"Domain":"farmhounds.com","Merchant":{"ID":67146,"Name":"Farm Hounds","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":66977,"Domain":"shieldapparels.com","Merchant":{"ID":67148,"Name":"United Apparels","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66980,"Domain":"loomyhome.com","Merchant":{"ID":67149,"Name":"LOOMY Home","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66971,"Domain":"hoodielab.com","Merchant":{"ID":67151,"Name":"Hoodie Lab","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66993,"Domain":"dealfuel.com","Merchant":{"ID":67153,"Name":"DealFuel","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":66986,"Domain":"herohealth.com","Merchant":{"ID":67154,"Name":"Hero Health","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66992,"Domain":"kidozi.com","Merchant":{"ID":67155,"Name":"Kidozi","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":67004,"Domain":"shopbellaandbloom.com","Merchant":{"ID":67157,"Name":"Bella and Bloom","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66091,"Domain":"mydodow.com","Merchant":{"ID":67158,"Name":"Dodow","MaxRate":{"Kind":"PERCENTAGE","Amount":"12.5"}}}
+{"ID":101420,"Domain":"ca.namastevaporizers.com","Merchant":{"ID":67161,"Name":"Lifted Technologies","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":67012,"Domain":"goinggear.com","Merchant":{"ID":67162,"Name":"Going Gear","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":67002,"Domain":"healthvape.com","Merchant":{"ID":67164,"Name":"HealthVape","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":67013,"Domain":"thedrop.com","Merchant":{"ID":67166,"Name":"TheDrop.com","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":67078,"Domain":"bluesky-cbd.com","Merchant":{"ID":67172,"Name":"Blue Sky CBD","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":67114,"Domain":"kodiakleather.com","Merchant":{"ID":67176,"Name":"Kodiak Leather","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":67115,"Domain":"nationsbestdeals.com","Merchant":{"ID":67177,"Name":"Intergalactic Deals","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":67124,"Domain":"zgrills.com","Merchant":{"ID":67179,"Name":"Z Grills","MaxRate":{"Kind":"PERCENTAGE","Amount":"3.5"}}}
+{"ID":67130,"Domain":"geekgearbox.co.uk","Merchant":{"ID":67182,"Name":"Geek Gear Box","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":5515239,"Domain":"bullybeds.com","Merchant":{"ID":67183,"Name":"Bully Beds","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":67131,"Domain":"filenow.com","Merchant":{"ID":67185,"Name":"Filenow","MaxRate":{"Kind":"FLAT","Amount":"30","Currency":"USD"}}}
+{"ID":65998,"Domain":"tayst.com","Merchant":{"ID":67191,"Name":"Tayst Coffee","MaxRate":{"Kind":"FLAT","Amount":"5","Currency":"USD"}}}
+{"ID":67049,"Domain":"teechip.com","Merchant":{"ID":67195,"Name":"TeeChip","MaxRate":{"Kind":"PERCENTAGE","Amount":"7.5"}}}
+{"ID":67047,"Domain":"wopet.com","Merchant":{"ID":67196,"Name":"WOPET","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":80906,"Domain":"hakunasupply.com","Merchant":{"ID":67197,"Name":"Hakuna Supply","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":67030,"Domain":"hakunasupplycbd.com","Merchant":{"ID":67197,"Name":"Hakuna Supply","MaxRate":{"Kind":"PERCENTAGE","Amount":"10"}}}
+{"ID":122113,"Domain":"parsleyhealth.com","Merchant":{"ID":67200,"Name":"Parsley Health","MaxRate":{"Kind":"FLAT","Amount":"50","Currency":"USD"}}}
+{"ID":67052,"Domain":"hometownapparel.com","Merchant":{"ID":67201,"Name":"Hometown Apparel","MaxRate":{"Kind":"PERCENTAGE","Amount":"0.5"}}}
+{"ID":66967,"Domain":"wickbox.co","Merchant":{"ID":67202,"Name":"Wickbox","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":66994,"Domain":"eternitymodern.com","Merchant":{"ID":67204,"Name":"Eternity Modern","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":67107,"Domain":"chappywrap.com","Merchant":{"ID":67206,"Name":"ChappyWrap","MaxRate":{"Kind":"PERCENTAGE","Amount":"2.5"}}}
+{"ID":67137,"Domain":"sockologie.com","Merchant":{"ID":67209,"Name":"Sockologie","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":67022,"Domain":"sendovernightmail.com","Merchant":{"ID":67211,"Name":"Send overnight mail","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
+{"ID":67051,"Domain":"katebackdrop.com","Merchant":{"ID":67217,"Name":"KATE BACKDROP","MaxRate":{"Kind":"PERCENTAGE","Amount":"4"}}}
+{"ID":67027,"Domain":"refreshskintherapy.com","Merchant":{"ID":67218,"Name":"Refresh Skin Therapy","MaxRate":{"Kind":"PERCENTAGE","Amount":"5"}}}
